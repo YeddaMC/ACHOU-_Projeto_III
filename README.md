@@ -33,33 +33,39 @@ Repositório criado para registrar o desenvolvimento do projeto ACHOU!  em 2026.
 [CRONOGRAMA 2026.2](https://github.com/YeddaMC/ACHOU-_Projeto_III/wiki/Cronograma-%E2%80%90-P.I.3-%E2%80%90-calend%C3%A1rio-2026.2)
 
 
-| Cronograma e principais entregas | | | |
-| :---: | :---: | :---: | :--- |
-| **Sprint** | **Início** | **Fim** | **Tarefas / Entregas do Período** |
-| **Sprint 0** | 30/07 | 13/08 | (1) **30/07** - APS01: Planejamento de Seminários sobre Inovação, Educação e Diversidade em empresas de tecnologia |
-| | | | *Plano de Negócios*: Conceito, Missão, Visão e Valores (Seção 1: Sumário Executivo) |
-| | | | *Estratégia*: Estratégia como Perspectiva (Visão de mundo e cultura da startup) |
-| **Sprint 1** | 13/08 | 27/08 |(2) **27/08** - Trabalho 1: Seminário de Inovação, Educação e Diversidade em empresas de tecnologia |
-| | | | *Plano de Negócios*: Estudo dos Clientes, Concorrentes e Fornecedores (Seção 2: Análise de Mercado) |
-| | | | *Estratégia*: Estratégia como Posição (Localização da startup e nicho no mercado) |
-| **Sprint 2** | 27/08 | 10/09 | *Acompanhamento / Preparação para as ações de extensão* |
-| | | | *Plano de Negócios*: Estratégia dos 4 Ps do Marketing (Produto, Preço, Praça, Promoção) |
-| | | | *Estratégia*: Estratégia como Plano (Direcionamento intencional da estratégia de marketing) |
-| **Sprint 3** | 10/09 | 24/09 | (3) **24/09** - Atividade 1: Extensão (oferta da ação de extensão, SCiTec) |
-| | | | *Plano de Negócios*: Estrutura do App/Site, Capacidade, Processos Operacionais e Pessoal (Seção 4: Plano Operacional) |
-| | | | *Estratégia*: Estratégia como Padrão (Ações consistentes e rotinas na execução diária) |
-| **Sprint 4** | 24/09 | 08/10 | (4) **01/10** - Trabalho 2: Relatório Lições Aprendidas Extensão - SCITEC |
-| | | | *Plano de Negócios*: Investimentos iniciais, Custos fixos/variáveis e Capital de Giro (Seção 5: Plano Financeiro - Parte 1) |
-| | | | *Estratégia*: Estratégia como Pretexto/Ploy (Manobras competitivas e barreira contra concorrentes) |
-| **Sprint 5** | 08/10 | 22/10 | *Elaboração do artigo e material de apresentação para o V WIPEX* |
-| | | | *Plano de Negócios*: Projeção de Resultados, Indicadores de Viabilidade e Cenários Alternativos (Seção 5: Plano Financeiro - Parte 2) |
-| **Sprint 6** | 22/10 | 05/11 |(5) **29/10** - Atividade 2: Extensão V WIPEX (artigo, apresentação) |
-| | | | (6) **05/11** - Atividade 3: Extensão V WIPEX (organização, anais) |
-| | | | *Plano de Negócios*: Análise SWOT / FOFA (Seção 6: Análise Estratégica) |
-| | | | *Estratégia*: Consolidação dos 5 Ps da Estratégia na Análise Estratégica |
-| **Sprint 7** | 05/11 | 19/11 | (7)  **07/11** - Sábado Letivo: APS02 - Trabalho 3: Produto Educacional publicado |
-| | | | *Plano de Negócios*: Consolidação da Avaliação do Plano, Redação Final do Resumo Executivo |
-| | | | *Plano de Negócios*: Forma Jurídica, Enquadramento Tributário e Capital Social (Seções 1 e 7) |
-| **Sprint 8** | 19/11 | 03/12 | (8) **26/11** - Trabalho 4: Relatório Lições Aprendidas Projeto e Plano de Negócios |
-| | | | *Plano de Negócios*: Revisão Final e Formatação nos padrões do template do IFPR |
-| | | | *Plano de Negócios*: Entrega e Apresentação Final |
+| Sprint | Data (Quinta) | Atividade / Entrega | Link da Entrega |
+| :---: | :---: | :--- | :---: |
+| **Sprint 0** | 30/07 | ⚠️ (1) **30/07** - APS01: Planejamento de Seminários sobre Inovação, Educação e Diversidade em empresas de tecnologia | [Link](#) |
+| | 06/08 | *Plano de Negócios*: 1. Sumário Executivo - Conceito, Missão, Visão e Valores | [Link](#) |
+| | 13/08 | *Estratégia*: Estratégia como Perspectiva (Visão de mundo e cultura da startup) | [Link](#) |
+| **Sprint 1** | 13/08 | *Plano de Negócios*: 2. Análise de Mercado - Estudo dos Clientes, Concorrentes e Fornecedores | [Link](#) |
+| | 20/08 | *Estratégia*: Estratégia como Posição (Localização da startup e nicho no mercado) | [Link](#) |
+| | 27/08 | ⚠️ (2) **27/08** - Trabalho 1: Seminário de Inovação, Educação e Diversidade em empresas de tecnologia | [Link](#) |
+| **Sprint 2** | 27/08 | *Acompanhamento / Preparação para as ações de extensão* | [Link](#) |
+| | 03/09 | *Plano de Negócios*: 3. Plano de Marketing - Produto, Preço, Praça e Promoção | [Link](#) |
+| | 10/09 | *Estratégia*: Estratégia como Plano (Direcionamento intencional da estratégia de marketing) | [Link](#) |
+| **Sprint 3** | 10/09 | *Plano de Negócios*: 4. Plano Operacional - Layout, Capacidade, Processos e Necessidade de Pessoal | [Link](#) |
+| | 17/09 | *Estratégia*: Estratégia como Padrão (Ações consistentes e rotinas na execução diária) | [Link](#) |
+| | 24/09 | ⚠️ (3) **24/09** - Atividade 1: Extensão (oferta da ação de extensão, SCiTec) | [Link](#) |
+| **Sprint 4** | 24/09 | *Plano de Negócios*: 5. Plano Financeiro (Parte 1) - Investimentos, Gastos e Capital de Giro | [Link](#) |
+| | 01/10 | ⚠️ (4) **01/10** - Trabalho 2: Relatório Lições Aprendidas Extensão - SCITEC | [Link](#) |
+| | 08/10 | *Estratégia*: Estratégia como Pretexto/Ploy (Manobras competitivas e barreira contra concorrentes) | [Link](#) |
+| **Sprint 5** | 08/10 | *Plano de Negócios*: 5. Plano Financeiro (Parte 2) - Evolução dos Resultados, Indicadores de Viabilidade e Cenários | [Link](#) |
+| | 15/10 | *Plano de Negócios*: 6. Análise Estratégica (Análise SWOT / FOFA) + Consolidação dos 5 Ps | [Link](#) |
+| | 22/10 | *Plano de Negócios*: 7. Avaliação do Plano + Elaboração do artigo e apresentação para o V WIPEX | [Link](#) |
+| **Sprint 6** | 22/10 | *Consolidação de Todos os Dados do Plano de Negócios para o V WIPEX* | [Link](#) |
+| | 29/10 | ⚠️ (5) **29/10** - Atividade 2: Extensão V WIPEX (artigo, apresentação com dados completos do Plano) | [Link](#) |
+| | 05/11 | ⚠️ (6) **05/11** - Atividade 3: Extensão V WIPEX (organização, anais) | [Link](#) |
+| **Sprint 7** | 05/11 | *Plano de Negócios*: 1. Sumário Executivo - Setores, Forma Jurídica, Enquadramento Tributário e Capital Social | [Link](#) |
+| | 07/11 *(Sáb)* | ⚠️ (7) **07/11** - Sábado Letivo: APS02 - Trabalho 3: Produto Educacional publicado | [Link](#) |
+| | 12/11 | *Plano de Negócios*: Redação Final do Resumo Executivo e Ajustes Institucionais | [Link](#) |
+| | 19/11 | Acompanhamento e preparação das lições aprendidas do projeto | [Link](#) |
+| **Sprint 8** | 19/11 | *Plano de Negócios*: Revisão Final e Formatação nos padrões do template do IFPR | [Link](#) |
+| | 26/11 | ⚠️ (8) **26/11** - Trabalho 4: Relatório Lições Aprendidas Projeto e Plano de Negócios | [Link](#) |
+| | 03/12 | *Plano de Negócios*: Entrega e Apresentação Final | [Link](#) |
+
+
+
+
+
+
