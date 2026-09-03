@@ -34,7 +34,7 @@ ENTREGAS
 | Sprint | Data | Atividade / Entrega | Link da Entrega | Checklist |
 | :---: | :---: | :--- | :---: | :---: |
 | **Sprint 0** | 30/07 | ⚠️ (1) 30/07 - APS01: Planejamento de Seminários sobre Inovação, Educação e Diversidade em empresas de tecnologia | - | ✅ |
-| **Sprint 1** | 27/08 | ⚠️ (2) 27/08 - Trabalho 1: Seminário de Inovação, Educação e Diversidade em empresas de tecnologia | [Seminario](https://inovacao-educacao-e-dive-48vl944.gamma.site/) | ✅* |
+| **Sprint 1** | 27/08 | ⚠️ (2) 27/08 - Trabalho 1: Seminário de Inovação, Educação e Diversidade em empresas de tecnologia | [Seminario](https://drive.google.com/file/d/1LK9D0UKZvL_dFKBIXpcbzd2W6gqBMJ3t/view?usp=sharing) | ✅* |
 | | 03/09 | ⚠️ (2.1) 03/09 - Trabalho 1: Lauda do Seminário | [Lauda](https://docs.google.com/document/d/1fLLpqsKHCley5zehftev1rHpR4NPHwFO51YGmNeFVHw/edit?tab=t.0#heading=h.ifiaohyublni) | ✅ |
 | **Sprint 3** | 24/09 | ⚠️ (3) 24/09 - Atividade 1: Extensão (oferta da ação de extensão, SCiTec) | [Proposta](https://drive.google.com/drive/folders/1ThOjwk2UxmcMacQ70Q3xIcK8-i6b9Qio) | |
 | **Sprint 4** | 01/10 | ⚠️ (4) 01/10 - Trabalho 2: Relatório Lições Aprendidas Extensão - SCITECLink | [Link](#) | |
