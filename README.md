@@ -7,7 +7,7 @@ Repositório criado para registrar o desenvolvimento do projeto ACHOU! em 2026.2
       <img width="173" height="168" alt="ACHOU_LOGO" src="https://github.com/user-attachments/assets/dee0335e-b6b1-498d-a1ec-5e09df1d70a5" />
     </td>
     <td valign="top" style="padding-left: 20px;">
-      Projeto Interdisciplinar 3_GTI5_IFPR_Campus Pinhais
+      Projeto Interdisciplinar 3_GTI6_IFPR_Campus Pinhais
       <br><br>
       <strong>EQUIPE:</strong><br>
       Mary Ana Carvalhais Carneiro<br>
