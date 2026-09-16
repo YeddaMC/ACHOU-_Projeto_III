@@ -35,8 +35,9 @@ ENTREGAS
 | :---: | :---: | :--- | :---: | :---: |
 | **Sprint 0** | 30/07 | ⚠️ (1) 30/07 - APS01: Planejamento de Seminários sobre Inovação, Educação e Diversidade em empresas de tecnologia | - | ✅ |
 | **Sprint 1** | 27/08 | ⚠️ (2) 27/08 - Trabalho 1: Seminário de Inovação, Educação e Diversidade em empresas de tecnologia | [Seminario](https://drive.google.com/file/d/1LK9D0UKZvL_dFKBIXpcbzd2W6gqBMJ3t/view?usp=sharing) | ✅* |
-| | 03/09 | ⚠️ (2.1) 03/09 - Trabalho 1: Lauda do Seminário | [Lauda](https://docs.google.com/document/d/1fLLpqsKHCley5zehftev1rHpR4NPHwFO51YGmNeFVHw/edit?tab=t.0#heading=h.ifiaohyublni) | ✅ |
-| **Sprint 3** | 24/09 | ⚠️ (3) 24/09 - Atividade 1: Extensão (oferta da ação de extensão, SCiTec) | [Proposta](https://drive.google.com/drive/folders/1ThOjwk2UxmcMacQ70Q3xIcK8-i6b9Qio) | |
+| **Sprint 1**| 03/09 | ⚠️ (2.1) 03/09 - Trabalho 1: Lauda do Seminário | [Lauda](https://docs.google.com/document/d/1fLLpqsKHCley5zehftev1rHpR4NPHwFO51YGmNeFVHw/edit?tab=t.0#heading=h.ifiaohyublni) | ✅ |
+|**Sprint 2** | 16/09 |Empreendedorismo - Apresentação parcial do plano de negócios | [Slides](https://www.figma.com/deck/d0P8gL8NBigQz2eYn3HbG9/Plano-de-Neg%C3%B3cios---Parcial?node-id=1-2&t=Y8FsrGkHoPYO4Waf-1&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1) | ✅ |
+| **Sprint 3** | 22 a 24/09 | ⚠️ (3) 24/09 - Atividade 1: Extensão (oferta da ação de extensão, SCiTec) | [Proposta](https://drive.google.com/drive/folders/1ThOjwk2UxmcMacQ70Q3xIcK8-i6b9Qio) | |
 | **Sprint 4** | 01/10 | ⚠️ (4) 01/10 - Trabalho 2: Relatório Lições Aprendidas Extensão - SCITECLink | [Link](#) | |
 | **Sprint 6** | 29/10 | ⚠️ (5) 29/10 - Atividade 2: Extensão V WIPEX (artigo, apresentação com dados completos do Plano) | [Link](#) | |
 | | 05/11 | ⚠️ (6) 05/11 - Atividade 3: Extensão V WIPEX (organização, anais) | [Link](#) | |
