@@ -42,7 +42,7 @@ ENTREGAS
 | **Sprint 4** | 01/10 | ⚠️ (4) 01/10 - Trabalho 2: Relatório Lições Aprendidas Extensão - SCITECLink | [Link](#) | |
 | **Sprint 6** | 29/10 | ⚠️ (5) 29/10 - Atividade 2: Extensão V WIPEX (artigo, apresentação com dados completos do Plano) | [Link](#) | |
 | **Sprint 6** | 05/11 | ⚠️ (6) 05/11 - Atividade 3: Extensão V WIPEX (organização, anais) | [Link](#) | |
-| **Sprint 7** | 07/11 *(Sáb)* | ⚠️ (7) 07/11 - Sábado Letivo: APS02 - Trabalho 3: Produto Educacional publicado | [Link](#) | |
+| **Sprint 7** | 07/11 *(Sáb)* | ⚠️ (7) 07/11 - Sábado Letivo: APS02 - Trabalho 3: Produto Educacional publicado | [Links](https://github.com/YeddaMC/ACHOU-_Projeto_III/wiki/Produtos-Educacionais-Publicados) |✅ |
 | **Sprint 8** | 26/11 | ⚠️ (8) 26/11 - Trabalho 4: Relatório Lições Aprendidas Projeto e Plano de Negócios | [Link](#) | |
 <hr style="height:4px; border:none; color:#000; background-color:#000;">
 PLANO DE NEGÓCIOS
