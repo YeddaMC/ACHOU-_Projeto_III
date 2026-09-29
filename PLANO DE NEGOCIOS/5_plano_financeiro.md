@@ -6,7 +6,7 @@ A fase 3 do projeto concentra os esforços na monetização da plataforma, na es
 | Item | Valor Estimado (R$) |
 |---|---:|
 | Estrutura inicial de operação remota e ferramentas | 3.000,00 |
-| Configuração de infraestrutura para grupos e usuários premium | 4.500,00 |
+| Configuração inicial de infraestrutura para grupos e usuários premium | 3.000,00 |
 | Marketing e aquisição local | 2.500,00 |
 | Suporte, atendimento e moderação da plataforma | 1.500,00 |
 | Segurança, monitoramento e compliance | 1.500,00 |
@@ -19,7 +19,7 @@ A fase 3 do projeto concentra os esforços na monetização da plataforma, na es
 | Componente | Descrição | Valor (R$) |
 |---|---|---:|
 | Estrutura inicial de operação remota e ferramentas | Licenças de produtividade, comunicação, gestão de projetos, armazenamento e configuração inicial de ambiente digital | 3.000,00 |
-| Configuração de infraestrutura para grupos e usuários premium | Provisionamento de ambientes, integração com Firebase/Cloudflare, testes e customização inicial de instâncias white label | 4.500,00 |
+| Configuração inicial de infraestrutura para grupos e usuários premium | Provisionamento inicial de ambientes isolados, integração com Firebase/Cloudflare, testes e customização inicial de instâncias white label com escalabilidade incremental conforme crescimento do grupo | 3.000,00 |
 | Marketing e aquisição local | Campanhas geolocalizadas, impulsionamento regional e materiais promocionais para atração de usuários e parceiros | 2.500,00 |
 | Suporte, atendimento e moderação da plataforma | Atividades de atendimento, suporte primeiro nível e moderação dos grupos e usuários em operação inicial | 1.500,00 |
 | Segurança, monitoramento e compliance | Auditoria básica de segurança, monitoramento de acesso e adequações iniciais de privacidade e proteção de dados | 1.500,00 |
@@ -97,12 +97,20 @@ O modelo financeiro do ACHOU considera duas frentes de receita: usuários indivi
 - Destaque da publicação: assinatura separada, contrato individual, R$ 39,00 por destaque ou pacote mensal
 
 #### 2. Grupos e organizações
-- Após a fase de aquisição, grupos que desejam um ambiente mais personalizado passam a ser atendidos no modelo white label.
-- Customização do frontend e isolamento do backend: cobrança de entrada por implantação e adaptação do ambiente, estimada entre R$ 2.000,00 e R$ 5.000,00.
-- Manutenção mensal do ambiente: cobrança recorrente, estimada entre R$ 500,00 e R$ 1.500,00 por grupo, conforme volume e nível de suporte.
-- A partir de determinado número de usuários ativos, a adesão em conjunto se torna mais vantajosa do que o uso individual de contas premium, especialmente quando o grupo já possui quantidade relevante de membros e necessidade de gestão e moderação.
+- Associações, cooperativas, centros comerciais, condomínios e outras organizações com necessidade de gestão coletiva podem entrar diretamente no modelo white label, sem depender necessariamente da aquisição individual de usuários.
+- Customização do frontend e isolamento do backend: cobrança de entrada por implantação e adaptação do ambiente, estimada entre R$ 1.500,00 e R$ 3.000,00, pois a infraestrutura inicial pode ser provisionada sobre a base já existente e escalada conforme o crescimento do grupo.
+- Manutenção mensal do ambiente: cobrança recorrente, definida por faixa de usuários ativos e nível de complexidade operacional, em vez de depender de um valor único aplicado a todos os grupos.
+- A estrutura de manutenção segue a lógica de que a maior parte do custo está ligada a suporte, estabilidade, integrações, monitoramento e administração do ambiente, e não apenas ao número de logins. Assim, a cobrança cresce em blocos conforme a operação do grupo se torna mais intensa.
+- A partir de determinado número de usuários ativos, a adesão em conjunto se torna mais vantajosa do que o uso individual de contas premium, especialmente quando o grupo já possui quantidade relevante de membros e necessidade de gestão, moderação e identidade própria.
+- O grupo também recebe uma publicação institucional na plataforma base, promovendo seu ambiente white label e ampliando a visibilidade junto aos usuários individuais do ACHOU.
 
-Esse modelo respeita a lógica de negócios do ACHOU, em que a contratação em grupo é realizada depois da fase de aquisição, quando há necessidade de customização, isolamento e manutenção de um ambiente próprio, com relação comercial estruturada e recorrente.
+| Faixa de usuários ativos | Nível de suporte e complexidade | Valor mensal estimado |
+|---|---|---:|
+| Até 30 usuários | Ambiente base, suporte básico, gestão local do grupo e operação estável | R$ 500,00 |
+| De 31 a 60 usuários | Aumento de acessos, maior exigência de monitoramento e suporte, atenção contínua à operação | R$ 900,00 |
+| Acima de 60 usuários | Ambiente com maior volume de interações, integrações, automações e necessidade de escalabilidade operacional | R$ 1.500,00 |
+
+Essa estrutura torna a cobrança mais transparente e defensável do ponto de vista financeiro. Em grupos menores, o custo está associado a manutenção mínima do ambiente; em grupos maiores, o valor cresce porque aumenta a exigência de suporte técnico, gestão de acessos, monitoramento, estabilidade da plataforma e eventual integração com ferramentas internas da organização. Portanto, o modelo não é baseado em “valor por pessoa”, mas em “nível de operação”, o que é mais adequado para soluções white label e para a realidade do ACHOU.
 
 ## 5.4 Receita mensal estimada
 A projeção considera cenário inicial de consolidação com usuários pagos e alguns grupos que exigem customização e manutenção.
@@ -233,4 +241,3 @@ O ACHOU apresenta um modelo de monetização estruturado em duas frentes princip
 A viabilidade financeira da plataforma depende do equilíbrio entre receita recorrente, custo fixo e volume de clientes. O modelo proposto é compatível com a lógica de crescimento do projeto, pois oferece possibilidade de expansão progressiva, retenção de clientes e aumento da recorrência de receita conforme a base de usuários e grupos ativos cresce.
 
 O plano financeiro demonstra que a proposta é econômica, escalável e alinhada ao modelo de operação remota da empresa. A combinação de assinaturas premium, destaque comercial e contratos de grupos customizados cria uma estrutura financeira mais robusta e sustentável para a fase de consolidação do negócio.
-
