@@ -10,10 +10,12 @@ A fase 3 do projeto concentra os esforços na monetização da plataforma, na es
 | Marketing e aquisição local | 2.500,00 |
 | Suporte, atendimento e moderação da plataforma | 1.500,00 |
 | Segurança, monitoramento e compliance | 1.500,00 |
+| Relatório de impacto e conformidade LGPD | 1.000,00 |
+| Encarregado de dados e assessoria legal | 2.000,00 |
 | Suporte jurídico e contábil | 2.000,00 |
 | Treinamento e onboarding da equipe | 2.500,00 |
 | Capital de giro da fase 3 | 6.000,00 |
-| Total | 25.500,00 |
+| Total | 28.500,00 |
 
 ### Composição do investimento da fase 3
 | Componente | Descrição | Valor (R$) |
@@ -23,10 +25,12 @@ A fase 3 do projeto concentra os esforços na monetização da plataforma, na es
 | Marketing e aquisição local | Campanhas geolocalizadas, impulsionamento regional e materiais promocionais para atração de usuários e parceiros | 2.500,00 |
 | Suporte, atendimento e moderação da plataforma | Atividades de atendimento, suporte primeiro nível e moderação dos grupos e usuários em operação inicial | 1.500,00 |
 | Segurança, monitoramento e compliance | Auditoria básica de segurança, monitoramento de acesso e adequações iniciais de privacidade e proteção de dados | 1.500,00 |
+| Relatório de impacto e conformidade LGPD | Mapeamento de dados, avaliação de riscos, medidas de segurança e documentação para atender à LGPD e eventuais exigências da ANPD | 1.000,00 |
+| Encarregado de dados e assessoria legal | Estruturação do papel do encarregado, orientação sobre tratamento de dados, suporte jurídico em ajustes e revisão de políticas internas | 2.000,00 |
 | Suporte jurídico e contábil | Registro, assessoria contábil, emissão de documentos e estrutura fiscal inicial | 2.000,00 |
 | Treinamento e onboarding da equipe | Capacitação do time em atendimento, operação, suporte e processos internos | 2.500,00 |
 | Capital de giro da fase 3 | Reserva financeira para operação inicial, marketing e cobertura de despesas correntes até a consolidação da receita | 6.000,00 |
-| Total |  | 25.500,00 |
+| Total |  | 28.500,00 |
 
 ### Indicadores financeiros principais
 | Indicador | Fórmula / Base | Valor Estimado |
@@ -40,7 +44,7 @@ A fase 3 do projeto concentra os esforços na monetização da plataforma, na es
 A operação da fase 3 do ACHOU terá custos fixos e variáveis próprios de uma plataforma digital em processo de consolidação como negócio. Os principais gastos envolvem infraestrutura, suporte, marketing, manutenção e gestão administrativa, com foco em monetização, aquisição e retenção de clientes.
 
 ### Custos fixos mensais
-A estrutura de custos mensais considera a operação remota da empresa, com contratação de equipe técnica, comercial e de marketing, além de benefícios compatíveis com o mercado e com as exigências de um modelo de trabalho remoto. O início da operação será realizado com uso de equipamentos próprios e processo de treinamento interno, reduzindo a necessidade de investimentos de infraestrutura física e permitindo maior concentração de custos em talento, atendimento e manutenção digital.
+A estrutura de custos mensais considera a operação remota da empresa, com contratação de equipe técnica, comercial e de marketing, além de benefícios compatíveis com o mercado e com as exigências de um modelo de trabalho remoto. O início da operação será realizado com uso de equipamentos próprios e processo de treinamento interno, reduzindo a necessidade de investimentos de infraestrutura física e permitindo maior concentração de custos em talento, atendimento e manutenção digital. A conformidade com a LGPD também exige uma estrutura mínima de governança, incluindo documentação de tratamento de dados, revisões de políticas e atuação de responsabilidade atribuída ao encarregado de proteção de dados.
 
 | Item | Valor Mensal (R$) |
 |---|---:|
@@ -51,8 +55,10 @@ A estrutura de custos mensais considera a operação remota da empresa, com cont
 | Salários e encargos da equipe técnica/comercial | 3.000,00 |
 | Benefícios e assistência (home office, alimentação, seguro de vida e acidentes pessoais) | 600,00 |
 | Contabilidade e jurídico | 300,00 |
+| Relatório de impacto e conformidade LGPD | 150,00 |
+| Encarregado de dados e assessoria legal | 250,00 |
 | Software e ferramentas | 250,00 |
-| Total fixo | 6.650,00 |
+| Total fixo | 7.050,00 |
 
 ### Composição dos custos fixos mensais
 | Componente | Descrição | Valor (R$) |
@@ -64,8 +70,10 @@ A estrutura de custos mensais considera a operação remota da empresa, com cont
 | Salários e encargos da equipe técnica/comercial | Remuneração da equipe de desenvolvimento, suporte e prospecção comercial | 3.000,00 |
 | Benefícios e assistência | Home office, alimentação, seguro de vida e seguro de acidentes pessoais | 600,00 |
 | Contabilidade e jurídico | Assessoria contábil, suporte jurídico e organização fiscal | 300,00 |
+| Relatório de impacto e conformidade LGPD | Revisão de políticas, mapeamento de dados e documentação para atendimento à LGPD | 150,00 |
+| Encarregado de dados e assessoria legal | Acompanhamento do tratamento de dados pessoais, suporte regulatório e orientação sobre práticas internas | 250,00 |
 | Software e ferramentas | Ferramentas de gestão, automação, comunicação e desenvolvimento | 250,00 |
-| Total |  | 6.650,00 |
+| Total |  | 7.050,00 |
 
 ### Custos variáveis
 | Item | Base de Cálculo | Valor Unitário | Custo Total |
@@ -146,6 +154,8 @@ O capital de giro é necessário para sustentar as primeiras etapas da operaçã
 | Total |  | 9.000,00 |
 
 ## 5.6 Indicadores de viabilidade
+Os indicadores apresentados a seguir referem-se ao cenário de maturação da operação, isto é, ao momento em que a base de usuários e grupos já se encontra consolidada e a receita recorrente passa a operar em volume superior ao cenário inicial da seção 5.4. Portanto, os valores de viabilidade devem ser interpretados como projeção de escala, e não como resultado esperado no primeiro mês de operação.
+
 ### 5.6.1 Margem de contribuição
 Fórmula:
 
@@ -164,9 +174,11 @@ Ponto de equilíbrio = Custos fixos / margem de contribuição unitária
 
 Cálculo:
 
-Ponto de equilíbrio = R$ 8.350,00 / R$ 80,00 = 104,375 ≈ 105 unidades
+Ponto de equilíbrio = R$ 7.050,00 / R$ 80,00 = 88,125 ≈ 89 unidades
 
-Para fins de análise, cada unidade representa um cliente equivalente com margem média de R$ 80,00. Portanto, o empreendimento deve atingir aproximadamente 105 unidades mensais para cobrir seus custos fixos operacionais.
+Para fins de análise, cada unidade representa um cliente equivalente com margem média de R$ 80,00. Portanto, o empreendimento deve atingir aproximadamente 89 unidades mensais para cobrir seus custos fixos operacionais no cenário de operação plenamente estruturada.
+
+A estrutura de conformidade com a LGPD também deve ser considerada no planejamento financeiro, pois a operação com dados pessoais exige controles adequados, documentação de processos e uma estrutura mínima de governança. A ausência de políticas e procedimentos pode elevar o risco regulatório, impactar a continuidade da operação e exigir investimentos adicionais em auditoria, correções e suporte jurídico.
 
 ### 5.6.3 Payback
 Fórmula:
@@ -175,11 +187,11 @@ Payback = Investimento inicial / lucro líquido mensal
 
 Cálculo:
 
-Payback = R$ 35.500,00 / R$ 1.500,00 = 23,67 meses
+Payback = R$ 28.500,00 / R$ 1.500,00 = 19,00 meses
 
-Payback ≈ 1 ano, 11 meses e 20 dias
+Payback ≈ 1 ano, 7 meses
 
-O payback indica o período necessário para que o fluxo de caixa acumulado equilibre o valor inicial investido.
+O payback indica o período necessário para que o fluxo de caixa acumulado equilibre o valor inicial investido em um cenário de maturação da operação.
 
 ### 5.6.4 TIR
 Fórmula:
@@ -188,7 +200,7 @@ Fórmula:
 
 Cálculo:
 
-0 = Σ (Fluxo de caixa / (1 + TIR)^t) - R$ 35.500,00
+0 = Σ (Fluxo de caixa / (1 + TIR)^t) - R$ 28.500,00
 
 Considerando um fluxo mensal projetado de R$ 1.500,00 ao longo de 24 meses, a taxa interna de retorno será positiva quando a equação acima resultar em valor igual ou superior a zero.
 
@@ -199,7 +211,7 @@ VPL = Σ (Fluxo de caixa / (1 + i)^t) - Investimento inicial
 
 Cálculo:
 
-VPL = Σ (Fluxo de caixa / (1 + i)^t) - R$ 35.500,00
+VPL = Σ (Fluxo de caixa / (1 + i)^t) - R$ 28.500,00
 
 A análise de valor presente líquido indica se o projeto gera valor econômico após a consideração do custo de capital. Quando o VPL é positivo, a proposta demonstra capacidade de geração de valor ao longo do período de análise.
 
@@ -210,9 +222,9 @@ ROI = (Lucro líquido / Investimento inicial) x 100
 
 Cálculo:
 
-ROI = (R$ 1.500,00 / R$ 35.500,00) x 100 = 4,23% ao mês
+ROI = (R$ 1.500,00 / R$ 28.500,00) x 100 = 5,26%
 
-O retorno sobre o investimento indica a eficiência do capital aplicado e permite avaliar a capacidade de geração de resultado em relação ao montante investido.
+O retorno sobre o investimento indica a eficiência do capital aplicado e permite avaliar a capacidade de geração de resultado em relação ao montante investido em cenário de operação consolidada.
 
 ## 5.7 Cenários alternativos
 ### Cenário conservador
