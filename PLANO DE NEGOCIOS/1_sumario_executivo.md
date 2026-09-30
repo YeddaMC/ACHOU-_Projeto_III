@@ -51,8 +51,19 @@ O empreendimento atua no setor terciário da economia, abrangendo duas frentes d
 
 - **Vantagens Operacionais**: Arrecadação unificada via DAS, simplificando a gestão fiscal.  
 
-## 1.9 Capital Social e Fonte de Recursos
+ 
+  - ## 1.9 Capital Social e Fonte de Recursos
+
 - **Capital Social Inicial**: Cobertura de taxas de registro de marca, constituição e contingências dos primeiros seis meses. MVP desenvolvido com planos gratuitos de plataformas em nuvem (Firebase, Cloudinary, SendGrid).  
+
 - **Composição do Capital**: Integralizado em moeda corrente nacional pelos sócios fundadores.  
+
 - **Origem dos Recursos e Modelo de Receita**:  
-  - Recursos próprios dos sócios (Boot
+  - Recursos próprios dos sócios (Bootstrapping).  
+  - Capital de Suor (Sweat Equity).  
+  - Receita por subscrição de Software como Serviço (SaaS) para licenciamento de versões customizadas (White Label) para associações.  
+  - Venda de planos de destaque e recursos adicionais para comerciantes locais.  
+  - Captação via editais públicos de fomento à inovação.  
+
+Ao final, o plano financeiro reflete a estratégia de sustentabilidade inicial via bootstrapping e capital de suor, garantindo tração com baixo custo operacional. A escalabilidade está assegurada pela monetização em SaaS (White Label e planos individuais de destaque), complementada pela otimização tributária no Simples Nacional e pela possibilidade de captação em editais públicos de inovação.
+
