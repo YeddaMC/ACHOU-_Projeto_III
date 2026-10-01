@@ -52,9 +52,9 @@ O empreendimento atua no setor terciário da economia, abrangendo duas frentes d
 - **Vantagens Operacionais**: Arrecadação unificada via DAS, simplificando a gestão fiscal.  
 
  
-  - ## 1.9 Capital Social e Fonte de Recursos
+## 1.9 Capital Social e Fonte de Recursos
 
-- **Capital Social Inicial**: Cobertura de taxas de registro de marca, constituição e contingências dos primeiros seis meses. MVP desenvolvido com planos gratuitos de plataformas em nuvem (Firebase, Cloudinary, SendGrid).  
+- **Capital Social Inicial**: Cobertura de taxas de registro de marca, constituição e contingências dos primeiros seis meses.  
 
 - **Composição do Capital**: Integralizado em moeda corrente nacional pelos sócios fundadores.  
 
@@ -65,5 +65,10 @@ O empreendimento atua no setor terciário da economia, abrangendo duas frentes d
   - Venda de planos de destaque e recursos adicionais para comerciantes locais.  
   - Captação via editais públicos de fomento à inovação.  
 
-Ao final, o plano financeiro reflete a estratégia de sustentabilidade inicial via bootstrapping e capital de suor, garantindo tração com baixo custo operacional. A escalabilidade está assegurada pela monetização em SaaS (White Label e planos individuais de destaque), complementada pela otimização tributária no Simples Nacional e pela possibilidade de captação em editais públicos de inovação.
+- **Estratégia Financeira em 2 Etapas**:  
+  - **Etapa 1**: Operação inicial enxuta para **evitar um burn rate elevado** no início, protegendo o capital de giro e permitindo que o negócio funcione até a consolidação dos contratos de grupos e da receita recorrente.  
+  - **Etapa 2**: Escala operacional com a entrada de contratos de grupos e associações para onboarding e manutenção recorrente. Nesse estágio, a empresa pode estruturar uma equipe completa e mais robusta, reduzindo a dependência direta das sócias e ampliando a capacidade de atendimento sem comprometer qualidade, conformidade e suporte técnico.  Para que a mudança de fase seja sustentável, a empresa precisa atingir receita recorrente mínima de aproximadamente R$ 28.000/mês.
+
+Essa lógica estratégica demonstra que a empresa nasce com formato enxuto e só cresce quando a receita e a operação comprovam a necessidade real de expansão, garantindo sustentabilidade e mitigando riscos.
+
 
