@@ -39,7 +39,7 @@ ENTREGAS
 | **Sprint 2** | 16/09 | Empreendedorismo - Apresentação parcial do plano de negócios | [Slides](https://www.figma.com/deck/d0P8gL8NBigQz2eYn3HbG9/Plano-de-Neg%C3%B3cios---Parcial?node-id=1-2&t=Y8FsrGkHoPYO4Waf-1&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1) | ✅ |
 | **Sprint 2** | 16/09 | Gestão Estratégica - Diagnóstico Externo | [Diagnóstico Externo](https://github.com/YeddaMC/ACHOU-_Projeto_III/wiki/Gest%C3%A3o-Estrat%C3%A9gica-%E2%80%90-Diagn%C3%B3stico-Externo) | ✅ |
 | **Sprint 3** | 22 a 24/09 | ⚠️ (3) 24/09 - Atividade 1: Extensão (oferta da ação de extensão, SCiTec) | [Repositorio](https://github.com/YeddaMC/VI_SciTec-PORTFOLIO_4.0-INTRODUCAO_A_ORGANIZACAO_DE_PROJETOS_E_VISIBILIDADE_COM_GITHUB/blob/main/README.md) |✅ |
-| **Sprint 4** | 01/10 | ⚠️ (4) 01/10 - Trabalho 2: Relatório Lições Aprendidas Extensão - SCITECLink | [Link](#) | |
+| **Sprint 4** | 01/10 | ⚠️ (4) 01/10 - Trabalho 2: Relatório Lições Aprendidas Extensão - SCITECLink | [Relatório](https://github.com/YeddaMC/ACHOU-_Projeto_III/wiki/%23-VI-SCITEC-%E2%80%90-RELATO-DE-EXPERI%C3%8ANCIA-DE-A%C3%87%C3%83O-DE-EXTENS%C3%83O) |✅ |
 | **Sprint 6** | 29/10 | ⚠️ (5) 29/10 - Atividade 2: Extensão V WIPEX (artigo, apresentação com dados completos do Plano) | [Link](#) | |
 | **Sprint 6** | 05/11 | ⚠️ (6) 05/11 - Atividade 3: Extensão V WIPEX (organização, anais) | [Link](#) | |
 | **Sprint 7** | 07/11 *(Sáb)* | ⚠️ (7) 07/11 - Sábado Letivo: APS02 - Trabalho 3: Produto Educacional publicado | [Links](https://github.com/YeddaMC/ACHOU-_Projeto_III/wiki/Produtos-Educacionais-Publicados) |✅ |
