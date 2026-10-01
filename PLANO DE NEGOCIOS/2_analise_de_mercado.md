@@ -3,7 +3,7 @@
 
 ## 2.1 Estudo dos Clientes
 
-A plataforma opera sob um modelo de mercado de duas faces, em que a lógica de contratação e a utilização da solução são distintas, mas complementares. De um lado, encontram-se os clientes pagantes, representados por empresas, associações, cooperativas e pequenos negócios locais que desejam aumentar a visibilidade de seus serviços e produtos no município. De outro, estão os consumidores finais, que buscam soluções próximas, rápidas e confiáveis, sem depender de grandes plataformas de logística ou de altas taxas de intermediação.
+A plataforma opera sob um modelo de mercado de duas faces, em que a lógica de contratação e a utilização da solução são distintas, mas complementares. De um lado, encontram-se os clientes pagantes, representados por empresas, associações, cooperativas e pequenos negócios locais que desejam aumentar a visibilidade de seus serviços e produtos no município. De outro, estão os consumidores finais, que buscam soluções próximas, rápidas e confiáveis, sem depender de grandes plataformas de logística.
 
 ### 2.1.1 Clientes pagantes: empresas e entidades locais
 
