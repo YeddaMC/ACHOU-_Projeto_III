@@ -434,6 +434,7 @@ No início da operação, não haverá funcionários contratados.
 | Marketing | Sócias |
 | Gestão financeira e administrativa | Sócias |
 | Contabilidade | Serviço terceirizado |
+| Assessoria jurídica e conformidade legal | Serviço terceirizado |
 
 A contratação de pessoal será avaliada conforme o crescimento da quantidade de contratos e da demanda operacional.
 
@@ -447,7 +448,7 @@ A contratação de pessoal será avaliada conforme o crescimento da quantidade d
 |---|---|---:|
 | Investimentos fixos | Domínio e configuração inicial; reserva para expansão da infraestrutura digital | R$ 500,00 |
 | Capital de giro | Marketing inicial; reserva operacional; suporte/atendimento; contingência | R$ 8.000,00 |
-| Investimentos pré-operacionais | Compliance e aspectos legais; assessoria contábil/tributária; lançamento e divulgação | R$ 4.000,00 |
+| Investimentos pré-operacionais | Assessoria contábil, jurídica e conformidade legal; lançamento e divulgação | R$ 4.000,00 |
 | **Total** |  | **R$ 12.500,00** |
 
 O planejamento financeiro analisa a viabilidade econômica do projeto até o ponto em que a expansão atinja o limite operacional da equipe formada pelas duas sócias. Esse critério permite verificar se o modelo consegue sustentar a operação inicial, identificar gargalos e sustentar decisões futuras de expansão com base em indicadores reais.
