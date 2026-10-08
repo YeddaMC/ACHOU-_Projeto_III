@@ -12,7 +12,7 @@ O projeto foi desenvolvido em três fases:
 
 **Fase 2 — Desenvolvimento e consolidação do MVP:** a partir das User Stories priorizadas, o sistema foi desenvolvido de forma incremental em **8 Sprints de 15 dias**, com testes, homologação e evolução progressiva da solução. Essa etapa resultou na consolidação do **Produto Mínimo Viável (MVP)**. O desenvolvimento registrou 88 tarefas técnicas concluídas e integradas ao ambiente de produção. :contentReference[oaicite:0]{index=0}
 
-**Fase 3 — Análise estratégica e estruturação do negócio:** corresponde à etapa atual, na qual o MVP desenvolvido é transformado em uma proposta de negócio sustentável, abrangendo análise de mercado, modelo de negócio, monetização, estrutura operacional, planejamento financeiro e estratégia de crescimento. O próprio projeto previa a estruturação do plano de negócios e das estratégias de monetização como etapa posterior ao desenvolvimento do MVP. :contentReference[oaicite:1]{index=1}
+**Fase 3 — O negócio parte de um MVP já desenvolvido e homologado.** A etapa atual concentra-se na transformação da solução tecnológica em uma operação comercial sustentável, com a elaboração de um plano de negócios abrangendo análise de mercado, plano de marketing, plano operacional, plano financeiro, análise estratégica e avaliação do modelo de negócio.
 
 O modelo de negócio possui dois públicos principais:
 
@@ -35,15 +35,13 @@ A plataforma permite localizar negócios por proximidade e entrar em contato dir
 
 O sistema possui três modalidades principais de utilização:
 
-- **Plano Individual Gratuito:** acesso aos recursos básicos de cadastro, presença digital, localização e contato;
-- **Plano Individual Pago:** disponibiliza funcionalidades adicionais já presentes no MVP, como destaques, relatórios e recursos promocionais;
+- **Plano Individual Gratuito:** acesso aos recursos básicos de cadastro, direito a um anúncio com upload de uma imagem, localização, adição de redes sociais e contato;
+- **Plano Individual Premium:** disponibiliza funcionalidades adicionais como criação de catálogos de produtos, destaques, relatórios e participação em campanhas promocionais, por **R$ 60,00 mensais**, sem taxa de adesão;
 - **Plano ACHOU! Grupo:** solução personalizada para grupos de no mínimo 30 empreendedores ou organizações, com personalização da interface e ambiente de dados isolado.
 
 O Plano Grupo foi estruturado a partir de uma quantidade mínima de participantes que torne economicamente viável para o ACHOU! realizar a personalização da interface, configuração e isolamento do ambiente.
 
 No Plano Grupo, a própria organização define os usuários autorizados a publicar e realizar a moderação dos conteúdos. O ACHOU! permanece responsável pelo suporte técnico da plataforma.
-
-O negócio parte de um MVP já desenvolvido e homologado. A etapa atual concentra-se na transformação da solução tecnológica em uma operação comercial sustentável.
 
 ---
 
@@ -210,15 +208,19 @@ O produto principal é a plataforma digital ACHOU!, composta por diferentes moda
 - contato direto com o empreendedor;
 - publicação de anúncios mediante moderação.
 
-### Plano Individual Pago
+### Plano Individual Premium
 
-O plano pago disponibiliza funcionalidades adicionais que já fazem parte do MVP, incluindo:
+O plano premium disponibiliza funcionalidades adicionais que já fazem parte do MVP, incluindo:
 
-- destaques;
+- destaque do perfil;
 - relatórios;
-- recursos promocionais.
+- catálogo de produtos;
+- campanhas promocionais.
 
 Essas funcionalidades são utilizadas como recursos de monetização do atendimento individual.
+
+**Valor:** R$ 60,00 por mês.
+**Taxa de adesão:** zero.
 
 ### Plano ACHOU! Grupo
 
@@ -246,9 +248,7 @@ Novos módulos, integrações ou alterações estruturais serão tratados como s
 
 A modalidade básica será gratuita.
 
-A modalidade paga disponibilizará funcionalidades adicionais do MVP, como destaques, relatórios e recursos promocionais.
-
-O preço específico dessa modalidade será definido conforme a estratégia comercial de lançamento e validação da disposição de pagamento.
+A modalidade premium será cobrada por **R$ 60,00 mensais**, com **sem taxa de adesão** e com acesso a recursos adicionais como destaques, relatórios, catálogo e campanhas promocionais.
 
 ### Plano ACHOU! Grupo
 
@@ -445,8 +445,26 @@ ItemValor mensalInfraestrutura/hospedagemR$ 150,00Ferramentas e gestãoR$ 200,00
 ---
 
 ## 5.3 Evolução dos resultados econômicos e financeiros projetados
-A principal receita recorrente será proveniente dos Planos ACHOU! Grupo.
+A principal receita recorrente será proveniente dos Planos ACHOU! Grupo e do Plano Individual Premium.
 
+### Premissas de monetização individual
+Para fins de planejamento, será adotada uma base conservadora de usuários ativos, considerando conversão média de **5%** dos usuários cadastrados para o plano premium. Em plataformas digitais de assinatura, a conversão de usuários gratuitos para assinantes pagos normalmente fica entre **2% e 8%**, com churn mensal em torno de **2% a 5%**.
+
+Assumindo:
+
+- 500 usuários ativos;
+- taxa de conversão para premium: **5%**;
+- valor do plano premium: **R$ 60,00/mês**;
+- churn mensal conservador: **3%**;
+
+a base de assinantes premium estimada será de:
+
+- 500 × 5% = **25 assinantes**;
+- MRR premium = 25 × R$ 60,00 = **R$ 1.500,00/mês**.
+
+Essa receita funciona como complemento do modelo de grupos e ajuda a reduzir a dependência de uma única fonte de faturamento.
+
+### Receita recorrente por grupo
 Cada grupo com o mínimo de 30 empreendedores representa:
 
 **R$ 900,00/mês de receita recorrente.**
@@ -456,17 +474,24 @@ A implantação representa uma receita inicial adicional de:
 **R$ 2.500,00 por novo grupo.**
 
 ### Cenários mensais
-CenárioGruposReceita recorrenteImposto estimado*Reserva variável de infraestruturaResultado mensal simplificadoInicial5R$ 4.500R$ 270R$ 200**-R$ 4.604**Intermediário15R$ 13.500R$ 810R$ 300**R$ 3.756**Capacidade inicial30R$ 27.000R$ 1.620R$ 600**R$ 16.146*** Utilizada alíquota de 6% apenas como premissa de planejamento. O enquadramento tributário efetivo deverá ser validado pela contabilidade.
+| Cenário | Grupos | Premium ativos | Receita recorrente total | Imposto estimado* | Reserva variável de infraestrutura | Resultado mensal simplificado |
+|---|---:|---:|---:|---:|---:|---:|
+| Inicial | 5 | 25 | R$ 6.000,00 | R$ 360,00 | R$ 200,00 | **-R$ 3.194,00** |
+| Intermediário | 15 | 25 | R$ 15.000,00 | R$ 900,00 | R$ 300,00 | **R$ 5.166,00** |
+| Capacidade inicial | 30 | 25 | R$ 28.500,00 | R$ 1.710,00 | R$ 600,00 | **R$ 17.556,00** |
+
+* Utilizada alíquota de 6% apenas como premissa de planejamento. O enquadramento tributário efetivo deverá ser validado pela contabilidade.
 
 A receita de implantação é adicional à receita recorrente. Para cada novo grupo:
 
 **R$ 2.500,00 de implantação + R$ 900,00 da primeira mensalidade = R$ 3.400,00 de entrada inicial.**
 
-Em um contrato de 12 meses:
+Em um contrato de 12 meses, considerando um grupo e a base estimada de 25 usuários premium:
 
 - implantação: R$ 2.500,00;
-- mensalidades: 12 × R$ 900,00 = R$ 10.800,00;
-- receita contratual total: **R$ 13.300,00**.
+- mensalidades de grupos: 12 × R$ 900,00 = R$ 10.800,00;
+- mensalidades premium: 12 × (25 × R$ 60,00) = R$ 18.000,00;
+- receita contratual total estimada: **R$ 31.300,00**.
 
 ---
 
@@ -485,13 +510,15 @@ A receita de implantação dos contratos contribuirá para reforçar o caixa dur
 ---
 
 ## 5.5 Indicadores de viabilidade
-Considerando os custos fixos de R$ 8.634,00, tributação estimada de 6% e reserva variável aproximada por grupo, o ponto de equilíbrio fica aproximadamente entre **10 e 11 grupos completos**.
+Considerando os custos fixos de R$ 8.634,00, tributação estimada de 6%, reserva variável aproximada por grupo e a receita complementar do plano premium, o ponto de equilíbrio passa a situar-se aproximadamente entre **9 e 10 grupos completos**, ou em uma combinação equivalente com alguns grupos e uma base de assinantes premium ativos.
 
 Assim:
 
-- abaixo de aproximadamente 10 grupos: tendência de resultado negativo;
-- próximo de 10–11 grupos: aproximação do equilíbrio;
+- abaixo de aproximadamente 9 grupos, ou sem volume suficiente de premium: tendência de resultado negativo;
+- próximo de 9–10 grupos, com a base premium sustentada: aproximação do equilíbrio;
 - acima desse nível: geração de resultado positivo.
+
+A receita do Plano Individual Premium reduz a dependência exclusiva da venda de grupos, aumenta a previsibilidade de caixa e melhora a atratividade do modelo durante a fase inicial de consolidação do negócio.
 
 Os principais indicadores a serem acompanhados serão:
 
