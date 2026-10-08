@@ -4,7 +4,11 @@
 
 ### 1.1 Resumo dos principais pontos do plano de negócio
 
+
+
 O ACHOU! é uma plataforma digital georreferenciada voltada à economia de proximidade, criada para ampliar a presença digital de microempreendedores e facilitar o acesso da população a produtos e serviços locais no município de Pinhais.
+
+A justificativa e a importância desta solução fundamentam-se na aderência à Agenda 2030 da Organização das Nações Unidas (ONU), por meio do atendimento a três Objetivos de Desenvolvimento Sustentável (ODS). O projeto contribui para o **ODS 8 (Trabalho Decente e Crescimento Econômico)** ao fortalecer o comércio de base e gerar renda local. Atende também ao **ODS 9 (Indústria, Inovação e Infraestrutura)** ao promover o acesso à infraestrutura tecnológica para a inclusão digital de pequenos negócios. Por fim, alinha-se ao **ODS 11 (Cidades e Comunidades Sustentáveis)** ao incentivar a mobilidade ativa e o consumo local baseado no conceito de cidades de proximidade.
 
 O projeto foi desenvolvido em três fases:
 
@@ -639,3 +643,5 @@ FASE 2 → Desenvolvimento incremental em 8 Sprints × 15 dias → MVP FUNCIONAL
 FASE 3 → Transformação da solução tecnológica em operação comercial sustentável + plano de negócios + estrutura operacional + estratégia de crescimento → STARTUP
 
 Assim, o presente Plano de Negócios representa a continuidade natural do desenvolvimento do ACHOU!, passando da construção e validação tecnológica para a estruturação de um modelo comercial sustentável e escalável.
+
+O desenvolvimento desta etapa, assim como das anteriores, tem um caráter extensionista, uma vez que a solução foi concebida para responder a demandas reais da comunidade local e para fortalecer ações de inclusão digital, geração de renda e organização econômica em territórios de proximidade. Nesse sentido, a primeira personalização da plataforma é direcionada a uma associação de moradores voltada à economia solidária, com foco em organização comunitária, fortalecimento de empreendimentos locais e gestão estratégica orientada à participação social e ao desenvolvimento territorial. Essa abordagem evidencia a capacidade do projeto de articular inovação tecnológica, planejamento estratégico e impacto social no contexto de comunidades organizadas.
