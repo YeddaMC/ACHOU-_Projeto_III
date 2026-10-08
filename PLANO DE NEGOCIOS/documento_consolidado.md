@@ -97,7 +97,7 @@ A operação inicial não prevê contratação de empregados. As próprias sóci
 
 A empresa **optará pelo Simples Nacional** desde o início da operação, atendendo aos requisitos legais e tributários aplicáveis à atividade e ao faturamento.
 
-Para fins de planejamento financeiro inicial, será utilizada uma **alíquota estimada de 6% sobre a receita**, como premissa de planejamento. A tributação efetiva será acompanhada e ajustada por profissional de contabilidade conforme a evolução do faturamento e das operações da empresa.
+Para fins de planejamento financeiro inicial, será utilizada uma **alíquota estimada de 4% sobre a receita**, como premissa de planejamento. A tributação efetiva será acompanhada e ajustada por profissional de contabilidade conforme a evolução do faturamento e das operações da empresa.
 
 ---
 
