@@ -40,22 +40,24 @@ ENTREGAS
 | **Sprint 2** | 16/09 | Gestão Estratégica - Diagnóstico Externo | [Diagnóstico Externo](https://github.com/YeddaMC/ACHOU-_Projeto_III/wiki/Gest%C3%A3o-Estrat%C3%A9gica-%E2%80%90-Diagn%C3%B3stico-Externo) | ✅ |
 | **Sprint 3** | 22 a 24/09 | ⚠️ (3) 24/09 - Atividade 1: Extensão (oferta da ação de extensão, SCiTec) | [Repositorio](https://github.com/YeddaMC/VI_SciTec-PORTFOLIO_4.0-INTRODUCAO_A_ORGANIZACAO_DE_PROJETOS_E_VISIBILIDADE_COM_GITHUB/blob/main/README.md) |✅ |
 | **Sprint 4** | 01/10 | ⚠️ (4) 01/10 - Trabalho 2: Relatório Lições Aprendidas Extensão - SCITECLink | [Relatório](https://github.com/YeddaMC/VI_SciTec-PORTFOLIO_4.0-INTRODUCAO_A_ORGANIZACAO_DE_PROJETOS_E_VISIBILIDADE_COM_GITHUB/wiki/Documenta%C3%A7%C3%A3o-e-Evid%C3%AAncias-da-A%C3%A7%C3%A3o-de-Extens%C3%A3o-%22Portf%C3%B3lio-4.0%22-%E2%80%94-VI-SciTec.) |✅ |
-| **Sprint 6** | 29/10 | ⚠️ (5) 29/10 - Atividade 2: Extensão V WIPEX (artigo, apresentação com dados completos do Plano) | [Link](#) | |
+| **Sprint 6** | 29/10 | ⚠️ (5) 29/10 - Atividade 2: Ajustes e ensaio apresentação com dados completos do Plano | [Link](#) | |
 | **Sprint 6** | 05/11 | ⚠️ (6) 05/11 - Atividade 3: Extensão V WIPEX (organização, anais) | [Link](#) | |
 | **Sprint 7** | 07/11 *(Sáb)* | ⚠️ (7) 07/11 - Sábado Letivo: APS02 - Trabalho 3: Produto Educacional publicado | [Links](https://github.com/YeddaMC/ACHOU-_Projeto_III/wiki/Produtos-Educacionais-Publicados) |✅ |
 | **Sprint 8** | 26/11 | ⚠️ (8) 26/11 - Trabalho 4: Relatório Lições Aprendidas Projeto e Plano de Negócios | [Link](#) | |
 <hr style="height:4px; border:none; color:#000; background-color:#000;">
-PLANO DE NEGÓCIOS
+[PLANO DE NEGÓCIOS](https://github.com/YeddaMC/ACHOU-_Projeto_III/blob/main/PLANO%20DE%20NEGOCIOS/8_documento_consolidado.md)
 <hr style="height:4px; border:none; color:#000; background-color:#000;">
 
 | Data | Atividade / Entrega | Link da Entrega | Checklist |
 | :---: | :--- | :---: | :---: |
-| 27/08 | **1. SUMÁRIO EXECUTIVO**<br>1.1 Resumo dos principais pontos do plano de negócio<br>1.2 Conceito do negócio<br>1.3 Missão do negócio<br>1.4 Visão<br>1.5 Valores | [Link](https://github.com/YeddaMC/ACHOU-_Projeto_III/blob/main/PLANO%20DE%20NEGOCIOS/1_sumario_executivo.md) | ✅ |
-| 03/09 | **1. SUMÁRIO EXECUTIVO (Cont.)**<br>1.6 Setores de atividades<br>1.7 Forma jurídica<br>1.8 Enquadramento tributário<br>1.9 Capital social e Fonte de recursos | [Link](https://github.com/YeddaMC/ACHOU-_Projeto_III/blob/main/PLANO%20DE%20NEGOCIOS/1_sumario_executivo.md) | ✅ |
-| 24/09 | **2. ANÁLISE DE MERCADO**<br>2.1 Estudo dos clientes (Clientes Pagantes B2B/B2B2C e Usuários Finais B2C)<br>2.2 Estudo dos Concorrentes<br>2.3 Estudo dos Fornecedores | [Link](https://github.com/YeddaMC/ACHOU-_Projeto_III/blob/main/PLANO%20DE%20NEGOCIOS/2_analise_de_mercado.md) | ✅ |
-| 01/10 | **3. PLANO DE MARKETING**<br>3.1 Produto<br>3.2 Preço<br>3.3 Praça<br>3.4 Promoção | [Link](https://github.com/YeddaMC/ACHOU-_Projeto_III/blob/main/PLANO%20DE%20NEGOCIOS/3_plano_de_marketing.md) | ✅ |
-| 29/10 | **4. PLANO OPERACIONAL**<br>4.1 Layout ou arranjo físico<br>4.2 Capacidade produtiva, comercial e de prestação de serviços<br>4.3 Processos operacionais<br>4.4 Necessidade de Pessoal | [Link](https://github.com/YeddaMC/ACHOU-_Projeto_III/blob/main/PLANO%20DE%20NEGOCIOS/4_plano_operacional.md) |✅ |
-| 05/11 | **5. PLANO FINANCEIRO**<br>5.1 Investimentos<br>5.2 Composição dos principais gastos<br>5.3 Evolução dos resultados econômicos e financeiros (projetados)<br>5.4 Capital de giro<br>5.5 Indicadores de viabilidade<br>5.6 Cenários Alternativos | [Link](https://github.com/YeddaMC/ACHOU-_Projeto_III/blob/main/PLANO%20DE%20NEGOCIOS/5_plano_financeiro.md) |✅ |
-| 07/11 *(Sáb)* | **6. ANÁLISE ESTRATÉGICA**<br>6.1 Análise SWOT | [Link](https://github.com/YeddaMC/ACHOU-_Projeto_III/wiki/6.-AN%C3%81LISE-ESTRAT%C3%89GICA-6.1-An%C3%A1lise-SWOT) | ⚠️ revisar |
-| 19/11 | **7. AVALIAÇÃO DO PLANO**<br>7.1 Avaliação Geral do Plano de Negócios | [Link](https://github.com/YeddaMC/ACHOU-_Projeto_III/blob/main/PLANO%20DE%20NEGOCIOS/7_avaliacao_do_plano.md) |⚠️ revisar |
-| 26/11 | **REFERÊNCIAS**<br>Referências Bibliográficas e Documentais | [Link](#) |⚠️ revisar |
+| 27/08 | **1. SUMÁRIO EXECUTIVO**<br>1.1 Resumo dos principais pontos do plano de negócio<br>1.2 Conceito do negócio<br>1.3 Missão do negócio<br>1.4 Visão<br>1.5 Valores | [Link]() | ✅ |
+| 03/09 | **1. SUMÁRIO EXECUTIVO (Cont.)**<br>1.6 Setores de atividades<br>1.7 Forma jurídica<br>1.8 Enquadramento tributário<br>1.9 Capital social e Fonte de recursos | [Link]() | ✅ |
+| 24/09 | **2. ANÁLISE DE MERCADO**<br>2.1 Estudo dos clientes (Clientes Pagantes B2B/B2B2C e Usuários Finais B2C)<br>2.2 Estudo dos Concorrentes<br>2.3 Estudo dos Fornecedores | [Link](d) | ✅ |
+| 24/09 | **3. PLANO DE MARKETING**<br>3.1 Produto<br>3.2 Preço<br>3.3 Praça<br>3.4 Promoção | [Link]() | ✅ |
+| 01/10 | **4. PLANO OPERACIONAL**<br>4.1 Layout ou arranjo físico<br>4.2 Capacidade produtiva, comercial e de prestação de serviços<br>4.3 Processos operacionais<br>4.4 Necessidade de Pessoal | [Link](d) | ✅ |
+| 01/10 | **5. PLANO FINANCEIRO**<br>5.1 Investimentos<br>5.2 Composição dos principais gastos<br>5.3 Evolução dos resultados econômicos e financeiros (projetados)<br>5.4 Capital de giro<br>5.5 Indicadores de viabilidade<br>5.6 Cenários Alternativos | [Link]() | ✅ |
+| 08/10 *(Sáb)* | **6. ANÁLISE ESTRATÉGICA**<br>6.1 Análise SWOT | [Link](T) | ⚠️ revisar |
+| 08/10 | **7. AVALIAÇÃO DO PLANO**<br>7.1 Avaliação Geral do Plano de Negócios | [Link]() | ⚠️ revisar |
+| 08/10 | **REFERÊNCIAS**<br>Referências Bibliográficas e Documentais | [Link](#) | ⚠️ revisar |
+| 22/10 | **8. REVISÃO E PREPARAÇÃO DA APRESENTAÇÃO**<br>Consolidação do documento final e montagem dos slides da apresentação | [Link]() | ⏳ pendente |
+| 29/10 | **9. AJUSTES E ENSAIO DA APRESENTAÇÃO FINAL (WIPEX)**<br>Ajustes finos no material e simulação/ensaio da defesa final | [Link]() | ⏳ pendente |
