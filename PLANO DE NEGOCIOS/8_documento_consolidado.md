@@ -10,7 +10,7 @@ O projeto foi desenvolvido em três fases:
 
 **Fase 1 — Ideação, especificação e prototipação:** compreendeu a identificação do problema, concepção da solução, Engenharia de Software, elicitação e especificação de requisitos, User Stories, modelagem UML, definição da arquitetura e do escopo. Essa fase foi concluída com a elaboração do **protótipo**.
 
-**Fase 2 — Desenvolvimento e consolidação do MVP:** a partir das User Stories priorizadas, o sistema foi desenvolvido de forma incremental em **8 Sprints de 15 dias**, com testes, homologação e evolução progressiva da solução. Essa etapa resultou na consolidação do **Produto Mínimo Viável (MVP)**. O desenvolvimento registrou 88 tarefas técnicas concluídas e integradas ao ambiente de produção. :contentReference[oaicite:0]{index=0}
+**Fase 2 — Desenvolvimento e consolidação do MVP:** a partir das User Stories priorizadas, o sistema foi desenvolvido de forma incremental em **8 Sprints de 15 dias**, com testes, homologação e evolução progressiva da solução. Essa etapa resultou na consolidação do **Produto Mínimo Viável (MVP)**. O desenvolvimento registrou 88 tarefas técnicas concluídas e integradas ao ambiente de produção.
 
 **Fase 3 — O negócio parte de um MVP já desenvolvido e homologado.** A etapa atual concentra-se na transformação da solução tecnológica em uma operação comercial sustentável, com a elaboração de um plano de negócios abrangendo análise de mercado, plano de marketing, plano operacional, plano financeiro, análise estratégica e avaliação do modelo de negócio.
 
@@ -67,14 +67,17 @@ Tornar-se uma plataforma de referência para a economia de proximidade no APL de
 
 ### 1.6 Setores de atividades
 
-O ACHOU! atua principalmente nos seguintes setores:
+O empreendimento atua no setor terciário da economia, abrangendo duas frentes de mercado:
 
-- tecnologia da informação;
-- desenvolvimento e disponibilização de software;
-- plataformas digitais;
-- soluções de presença digital;
-- economia de proximidade;
-- serviços de tecnologia para pequenos negócios e organizações locais.
+**Setor primário de atuação (B2B / B2B2C):** tecnologia da informação, sob o modelo de Software como Serviço (SaaS).
+
+- **B2B:** plataforma comercializada em versão customizada (White Label) para associações, cooperativas e organizações locais, mediante taxa única de implementação e mensalidade fixa para manutenção e hospedagem.
+- **B2B2C:** contratos individuais com empreendedores e prestadores de serviços, no modelo freemium, com camada básica gratuita e planos pagos para recursos adicionais.
+
+**Setor de impacto e atuação indireta (B2C):** comércio varejista e prestação de serviços no APL de Pinhais.
+
+- **B2B2C voltado ao empreendedor individual:** adesão autônoma para visibilidade local e direcionamento de clientes, com monetização por meio de planos premium e recursos adicionais.
+- **B2B direcionado a grupos:** contratação por associações comerciais, cooperativas ou centros comerciais, com modelo White Label, taxa de implementação e mensalidades fixas.
 
 ---
 
@@ -88,9 +91,9 @@ A operação inicial não prevê contratação de empregados. As próprias sóci
 
 ### 1.8 Enquadramento tributário
 
-A empresa poderá optar pelo **Simples Nacional**, caso atendidos os requisitos legais e tributários aplicáveis à atividade e ao faturamento.
+A empresa **optará pelo Simples Nacional** desde o início da operação, atendendo aos requisitos legais e tributários aplicáveis à atividade e ao faturamento.
 
-Para fins de planejamento financeiro inicial, será utilizada uma **alíquota estimada de 6% sobre a receita**, como premissa de planejamento. O enquadramento definitivo e a alíquota efetiva deverão ser confirmados por profissional de contabilidade antes do início da operação comercial.
+Para fins de planejamento financeiro inicial, será utilizada uma **alíquota estimada de 6% sobre a receita**, como premissa de planejamento. A tributação efetiva será acompanhada e ajustada por profissional de contabilidade conforme a evolução do faturamento e das operações da empresa.
 
 ---
 
@@ -119,7 +122,7 @@ O ACHOU! possui dois públicos principais.
 
 São microempreendedores que desejam estabelecer ou ampliar sua presença digital.
 
-O acesso gratuito disponibiliza os recursos básicos da plataforma. Os empreendedores que desejarem ampliar sua divulgação poderão utilizar o **Plano Individual Premium**, que disponibiliza funcionalidades adicionais já presentes no MVP, como:
+O acesso gratuito disponibiliza os recursos básicos da plataforma. Os empreendedores que desejarem ampliar sua divulgação utilizarão o **Plano Individual Premium**, que disponibiliza funcionalidades adicionais já presentes no MVP, como:
 
 - destaque do perfil;
 - relatórios;
@@ -171,7 +174,7 @@ O diferencial do ACHOU! está na combinação de:
 - baixo custo;
 - ausência de comissão sobre vendas;
 - contato direto entre consumidor e empreendedor;
-- possibilidade de personalização para grupos.
+- personalização para grupos.
 
 ---
 
@@ -188,9 +191,9 @@ Os principais fornecedores tecnológicos e operacionais são:
 - serviços contábeis;
 - serviços jurídicos e de conformidade.
 
-Durante o desenvolvimento do MVP, a utilização de planos gratuitos de serviços tecnológicos demonstrou ser suficiente para a operação em ambiente laboratorial, reduzindo os custos iniciais. :contentReference[oaicite:2]{index=2}
+Durante o desenvolvimento do MVP, a utilização de planos gratuitos de serviços tecnológicos demonstrou ser suficiente para a operação em ambiente laboratorial, reduzindo os custos iniciais.
 
-Com o crescimento da base de usuários, a infraestrutura poderá migrar gradualmente para planos pagos conforme o consumo dos serviços.
+Com o crescimento da base de usuários, a infraestrutura migrará gradualmente para planos pagos conforme o consumo dos serviços.
 
 ---
 
@@ -265,7 +268,7 @@ A mensalidade cobre a operação da solução dentro da capacidade contratada, i
 
 A implantação, personalização e configuração são cobradas uma única vez no início do contrato.
 
-Caso o grupo possua mais de 30 participantes, o valor mensal poderá ser ajustado proporcionalmente à quantidade contratada.
+Caso o grupo possua mais de 30 participantes, o valor mensal será ajustado proporcionalmente à quantidade contratada.
 
 ---
 
@@ -281,7 +284,7 @@ A distribuição será predominantemente digital, utilizando:
 - redes sociais;
 - comunicação direta com organizações locais.
 
-A expansão para outros municípios poderá ocorrer após a validação do modelo de negócio em Pinhais.
+A expansão para outros municípios ocorrerá após a validação do modelo de negócio em Pinhais.
 
 ---
 
@@ -312,7 +315,7 @@ O ACHOU! terá operação predominantemente digital e não necessitará de espa�
 
 O **domicílio fiscal da empresa será estabelecido no município de Pinhais, Paraná**, mantendo a relação territorial do negócio com o APL de Pinhais e com o mercado inicialmente atendido.
 
-As atividades operacionais poderão ser realizadas de forma remota, utilizando:
+As atividades operacionais serão realizadas de forma remota, utilizando:
 
 - computadores das sócias;
 - ferramentas de desenvolvimento;
@@ -328,13 +331,13 @@ Não haverá necessidade de estoque físico.
 
 A operação inicial será realizada pelas duas sócias.
 
-Cada sócia poderá acompanhar até **15 contratos de grupos**, totalizando uma capacidade operacional inicial de **30 contratos de grupos**.
+Cada sócia acompanhará até **15 contratos de grupos**, totalizando uma capacidade operacional inicial de **30 contratos de grupos**.
 
-Essa capacidade representa o limite operacional planejado para a estrutura inicial e não uma meta obrigatória de vendas.
+Essa capacidade representa o limite operacional planejado para a estrutura inicial e não uma meta obrigatória de vendas. O planejamento financeiro analisa a viabilidade econômica do projeto até o ponto em que a expansão atinja esse limite operacional da equipe formada pelas duas sócias. Ao final dessa etapa, a empresa identifica gargalos na operação e toma decisões mais assertivas sobre expansão, automação ou reforço de equipe.
 
-A expansão da capacidade deverá ocorrer mediante aumento da equipe, automação dos processos ou revisão da estrutura operacional.
+A expansão da capacidade ocorrerá mediante aumento da equipe, automação dos processos ou revisão da estrutura operacional.
 
-A experiência técnica acumulada no desenvolvimento do MVP fornece uma base para a operação tecnológica. O projeto registrou 88 tarefas técnicas concluídas, com média de 11 tarefas homologadas por ciclo. :contentReference[oaicite:3]{index=3}
+A experiência técnica acumulada no desenvolvimento do MVP fornece uma base para a operação tecnológica. O projeto registrou 88 tarefas técnicas concluídas, com média de 11 tarefas homologadas por ciclo.
 
 ---
 
@@ -383,7 +386,7 @@ Para reduzir a necessidade de treinamentos presenciais, os principais treinament
 
 O conteúdo será destinado tanto aos usuários individuais quanto aos grupos contratantes.
 
-Os materiais poderão abordar:
+Os materiais abordam:
 
 - cadastro;
 - utilização da plataforma;
@@ -421,7 +424,18 @@ As sócias serão responsáveis por:
 ## 4.4 Necessidade de pessoal
 No início da operação, não haverá funcionários contratados.
 
-FunçãoResponsávelGestão do negócioSóciasDesenvolvimento e manutençãoSóciasAtendimento e suporteSóciasModeração do Plano IndividualSóciasImplantação dos gruposSóciasMarketingSóciasGestão financeira e administrativaSóciasContabilidadeServiço terceirizadoA contratação de pessoal será avaliada conforme o crescimento da quantidade de contratos e da demanda operacional.
+| Função | Responsável |
+|---|---|
+| Gestão do negócio | Sócias |
+| Desenvolvimento e manutenção | Sócias |
+| Atendimento e suporte | Sócias |
+| Moderação do Plano Individual | Sócias |
+| Implantação dos grupos | Sócias |
+| Marketing | Sócias |
+| Gestão financeira e administrativa | Sócias |
+| Contabilidade | Serviço terceirizado |
+
+A contratação de pessoal será avaliada conforme o crescimento da quantidade de contratos e da demanda operacional.
 
 ---
 
@@ -429,23 +443,39 @@ FunçãoResponsávelGestão do negócioSóciasDesenvolvimento e manutençãoSóc
 
 ## 5.1 Investimentos
 
-### Investimentos fixos
-ItemValorDomínio e configuração inicialR$ 100,00Reserva para expansão da infraestrutura digitalR$ 400,00**Total****R$ 500,00**
-### Capital de giro
-ItemValorMarketing inicialR$ 3.000,00Reserva operacionalR$ 2.000,00Reserva para suporte/atendimentoR$ 1.000,00ContingênciaR$ 2.000,00**Total****R$ 8.000,00**
-### Investimentos pré-operacionais
-ItemValorCompliance e aspectos legaisR$ 1.500,00Assessoria contábil/tributáriaR$ 1.500,00Lançamento e divulgaçãoR$ 1.000,00**Total****R$ 4.000,00**
-### Investimento inicial total
-**R$ 12.500,00**
+| Tipo | Detalhamento | Valor |
+|---|---|---:|
+| Investimentos fixos | Domínio e configuração inicial; reserva para expansão da infraestrutura digital | R$ 500,00 |
+| Capital de giro | Marketing inicial; reserva operacional; suporte/atendimento; contingência | R$ 8.000,00 |
+| Investimentos pré-operacionais | Compliance e aspectos legais; assessoria contábil/tributária; lançamento e divulgação | R$ 4.000,00 |
+| **Total** |  | **R$ 12.500,00** |
+
+O planejamento financeiro analisa a viabilidade econômica do projeto até o ponto em que a expansão atinja o limite operacional da equipe formada pelas duas sócias. Esse critério permite verificar se o modelo consegue sustentar a operação inicial, identificar gargalos e sustentar decisões futuras de expansão com base em indicadores reais.
 
 ---
 
 ## 5.2 Composição dos principais gastos
-ItemValor mensalInfraestrutura/hospedagemR$ 150,00Ferramentas e gestãoR$ 200,00Mídia paga e divulgaçãoR$ 700,00Contabilidade e complianceR$ 500,00Reserva operacionalR$ 600,00Pró-labore — Sócia 1R$ 3.242,00Pró-labore — Sócia 2R$ 3.242,00**Total****R$ 8.634,00**A reserva operacional representa formação de caixa e deverá ser diferenciada de despesa contábil na elaboração da DRE definitiva.
+
+| Item | Valor mensal |
+|---|---:|
+| Internet, telefonia e comunicação | R$ 150,00 |
+| Energia, água e serviços básicos | R$ 250,00 |
+| Infraestrutura/hospedagem | R$ 150,00 |
+| Ferramentas e gestão | R$ 200,00 |
+| Mídia paga e divulgação | R$ 700,00 |
+| Contabilidade, compliance e fiscal | R$ 500,00 |
+| Assessoria jurídica e suporte operacional | R$ 200,00 |
+| Reserva operacional | R$ 600,00 |
+| Pró-labore — Sócia 1 | R$ 3.242,00 |
+| Pró-labore — Sócia 2 | R$ 3.242,00 |
+| **Total** | **R$ 8.884,00** |
+
+A reserva operacional representa formação de caixa e deve ser diferenciada da despesa contábil na elaboração da DRE definitiva.
 
 ---
 
 ## 5.3 Evolução dos resultados econômicos e financeiros projetados
+
 A principal receita recorrente será proveniente dos Planos ACHOU! Grupo e do Plano Individual Premium.
 
 ### Premissas de monetização individual
@@ -458,12 +488,10 @@ Assumindo:
 - valor do plano premium: **R$ 60,00/mês**;
 - churn mensal conservador: **3%**;
 
-a base de assinantes premium estimada será de:
+A base de assinantes premium estimada será de:
 
 - 500 × 5% = **25 assinantes**;
 - MRR premium = 25 × R$ 60,00 = **R$ 1.500,00/mês**.
-
-Essa receita funciona como complemento do modelo de grupos e ajuda a reduzir a dependência de uma única fonte de faturamento.
 
 ### Receita recorrente por grupo
 Cada grupo com o mínimo de 30 empreendedores representa:
@@ -474,14 +502,21 @@ A implantação representa uma receita inicial adicional de:
 
 **R$ 2.500,00 por novo grupo.**
 
+### Fórmulas de projeção
+
+- Receita recorrente total = (Nº de grupos × R$ 900,00) + (Nº de premium × R$ 60,00)
+- Imposto estimado = 6% × Receita recorrente total
+- Resultado mensal = Receita recorrente total − Imposto − R$ 8.884,00 − Reserva variável de infraestrutura
+
 ### Cenários mensais
+
 | Cenário | Grupos | Premium ativos | Receita recorrente total | Imposto estimado* | Reserva variável de infraestrutura | Resultado mensal simplificado |
 |---|---:|---:|---:|---:|---:|---:|
-| Inicial | 5 | 25 | R$ 6.000,00 | R$ 360,00 | R$ 200,00 | **-R$ 3.194,00** |
-| Intermediário | 15 | 25 | R$ 15.000,00 | R$ 900,00 | R$ 300,00 | **R$ 5.166,00** |
-| Capacidade inicial | 30 | 25 | R$ 28.500,00 | R$ 1.710,00 | R$ 600,00 | **R$ 17.556,00** |
+| Inicial | 5 | 25 | R$ 6.000,00 | R$ 360,00 | R$ 200,00 | **-R$ 3.444,00** |
+| Intermediário | 15 | 25 | R$ 15.000,00 | R$ 900,00 | R$ 300,00 | **R$ 4.916,00** |
+| Capacidade inicial | 30 | 25 | R$ 28.500,00 | R$ 1.710,00 | R$ 600,00 | **R$ 17.306,00** |
 
-* Utilizada alíquota de 6% apenas como premissa de planejamento. O enquadramento tributário efetivo deverá ser validado pela contabilidade.
+* Utilizada alíquota de 6% como premissa de planejamento, em linha com o regime do Simples Nacional adotado pela empresa.
 
 A receita de implantação é adicional à receita recorrente. Para cada novo grupo:
 
@@ -506,22 +541,13 @@ Sua composição foi planejada para garantir recursos para:
 - suporte;
 - contingências.
 
-A receita de implantação dos contratos contribuirá para reforçar o caixa durante a fase de aquisição dos primeiros clientes.
+A receita de implantação dos contratos e a receita recorrente inicial contribuirão para reforçar o caixa durante a fase de aquisição dos primeiros clientes.
 
 ---
 
 ## 5.5 Indicadores de viabilidade
-Considerando os custos fixos de R$ 8.634,00, tributação estimada de 6%, reserva variável aproximada por grupo e a receita complementar do plano premium, o ponto de equilíbrio passa a situar-se aproximadamente entre **9 e 10 grupos completos**, ou em uma combinação equivalente com alguns grupos e uma base de assinantes premium ativos.
 
-Assim:
-
-- abaixo de aproximadamente 9 grupos, ou sem volume suficiente de premium: tendência de resultado negativo;
-- próximo de 9–10 grupos, com a base premium sustentada: aproximação do equilíbrio;
-- acima desse nível: geração de resultado positivo.
-
-A receita do Plano Individual Premium reduz a dependência exclusiva da venda de grupos, aumenta a previsibilidade de caixa e melhora a atratividade do modelo durante a fase inicial de consolidação do negócio.
-
-Os principais indicadores a serem acompanhados serão:
+Os principais indicadores utilizados para avaliação da viabilidade do modelo são:
 
 - MRR (Monthly Recurring Revenue);
 - receita total;
@@ -534,48 +560,33 @@ Os principais indicadores a serem acompanhados serão:
 - ROI;
 - Payback;
 - VPL;
-- TIR;
-- Lead Time;
-- Throughput/Vazão.
+- TIR.
 
-O cálculo definitivo de ROI, Payback, VPL e TIR deverá utilizar um fluxo de caixa mensal completo, considerando a velocidade de aquisição dos grupos, investimentos, tributação e taxa mínima de atratividade.
+A estrutura de custos fixos e variáveis permite estimar o ponto de equilíbrio por meio da seguinte expressão:
+
+- margem de contribuição por grupo = R$ 900,00 − R$ 200,00 − 6% de R$ 900,00 = **R$ 646,00**
+- ponto de equilíbrio, sem premium = R$ 8.884,00 ÷ R$ 646,00 ≈ **13,7 grupos**
+- ponto de equilíbrio, com 25 premium ativos = (R$ 8.884,00 − R$ 1.500,00) ÷ R$ 646,00 ≈ **11,4 grupos**
+
+Considerando a receita complementar do Plano Individual Premium, o ponto de equilíbrio do negócio passa a situar-se em torno de **11 a 12 grupos completos**, ou em uma combinação equivalente de grupos e usuários premium ativos.
+
+Assim:
+
+- abaixo de aproximadamente 11 a 12 grupos, ou sem volume suficiente de premium: tendência de resultado negativo;
+- próximo de 11 a 12 grupos, com base premium sustentada: aproximação do equilíbrio;
+- acima desse nível: geração de resultado positivo.
+
+A receita do Plano Individual Premium reduz a dependência exclusiva da venda de grupos, aumenta a previsibilidade de caixa e melhora a atratividade do modelo durante a fase inicial de consolidação do negócio.
 
 ---
 
 ## 5.6 Cenários alternativos
 
-### Cenário conservador — 5 grupos
-A operação ainda não cobre os custos fixos completos.
-
-Prioridades:
-
-- validação comercial;
-- aquisição dos primeiros grupos;
-- controle dos custos;
-- retenção dos clientes;
-- utilização controlada das reservas.
-
-### Cenário de tração — 15 grupos
-A operação passa a apresentar resultado positivo.
-
-Prioridades:
-
-- estabilização dos processos;
-- retenção dos clientes;
-- automação;
-- eficiência operacional;
-- melhoria contínua da plataforma.
-
-### Cenário de capacidade inicial — 30 grupos
-A capacidade operacional inicial é atingida.
-
-Prioridades:
-
-- avaliação da necessidade de contratação;
-- expansão da infraestrutura;
-- revisão dos processos;
-- expansão para outros municípios;
-- ampliação da carteira de clientes.
+| Cenário | Grupos | Premium ativos | Receita recorrente | Imposto estimado | Reserva variável | Resultado mensal |
+|---|---:|---:|---:|---:|---:|---:|
+| Conservador | 5 | 25 | R$ 6.000,00 | R$ 360,00 | R$ 200,00 | **-R$ 3.444,00** |
+| Tração | 15 | 25 | R$ 15.000,00 | R$ 900,00 | R$ 300,00 | **R$ 4.916,00** |
+| Capacidade inicial | 30 | 25 | R$ 28.500,00 | R$ 1.710,00 | R$ 600,00 | **R$ 17.306,00** |
 
 Os 30 grupos representam a **capacidade inicial da estrutura operacional**, e não uma meta obrigatória de vendas.
 
@@ -584,11 +595,29 @@ Os 30 grupos representam a **capacidade inicial da estrutura operacional**, e n�
 # 6. ANÁLISE ESTRATÉGICA
 
 ## 6.1 Análise SWOT
-**Forças****Fraquezas**MVP já desenvolvido e homologadoOperação inicial dependente das duas sóciasBaixo custo de infraestrutura inicialCapacidade inicial limitada a 30 contratos de gruposModelo sem comissão sobre vendasMarca ainda em fase de consolidaçãoFoco na economia de proximidadeBaixa capacidade de investimento inicialPlataforma georreferenciadaNecessidade de aquisição contínua de clientesPossibilidade de personalização para gruposDependência de serviços tecnológicos de terceirosFuncionalidades premium já disponíveis no MVPSobrecarga potencial das sócias com o crescimento**Oportunidades****Ameaças**Baixa presença digital de pequenos negóciosGrandes plataformas digitaisCrescimento do comércio de proximidadeConcorrência de redes sociais e marketplacesExpansão para outros municípiosBaixa capacidade financeira dos microempreendedoresContratos com associações e cooperativasAumento dos custos de infraestruturaMonetização de funcionalidades premiumDependência de plataformas e APIs externasParcerias com organizações locaisDificuldade de aquisição e retenção de clientes
+
+| Forças | Fraquezas |
+|---|---|
+| MVP já desenvolvido e homologado | Operação inicial dependente das duas sócias |
+| Baixo custo de infraestrutura inicial | Capacidade inicial limitada a 30 contratos de grupos |
+| Modelo sem comissão sobre vendas | Marca ainda em fase de consolidação |
+| Foco na economia de proximidade | Baixa capacidade de investimento inicial |
+| Plataforma georreferenciada | Necessidade de aquisição contínua de clientes |
+| Personalização para grupos | Dependência de serviços tecnológicos de terceiros |
+| Funcionalidades premium já disponíveis no MVP | Sobrecarga potencial das sócias com o crescimento |
+
+| Oportunidades | Ameaças |
+|---|---|
+| Baixa presença digital de pequenos negócios | Grandes plataformas digitais |
+| Crescimento do comércio de proximidade | Concorrência de redes sociais e marketplaces |
+| Expansão para outros municípios | Baixa capacidade financeira dos microempreendedores |
+| Contratos com associações e cooperativas | Aumento dos custos de infraestrutura |
+| Monetização de funcionalidades premium | Dependência de plataformas e APIs externas |
+| Parcerias com organizações locais | Dificuldade de aquisição e retenção de clientes |
 ---
 
 # 7. AVALIAÇÃO DO PLANO
-O ACHOU! apresenta uma base tecnológica já desenvolvida, reduzindo o risco associado à criação inicial do produto. A primeira fase resultou no **protótipo**, a segunda consolidou o **MVP**, e a terceira fase concentra-se na estruturação do **modelo de negócio, plano de negócios e estratégia de crescimento da startup**.
+O ACHOU! apresenta uma base tecnológica já desenvolvida, reduzindo o risco associado à criação inicial do produto. A primeira fase resultou no **protótipo**, a segunda consolidou o **MVP**, e a terceira fase concentra-se na **transformação da solução tecnológica em uma operação comercial sustentável**, com a elaboração de um plano de negócios abrangendo análise de mercado, plano de marketing, plano operacional, plano financeiro, análise estratégica e avaliação do modelo de negócio.
 
 O modelo de negócio combina acesso individual gratuito, funcionalidades adicionais mediante plano premium e contratos personalizados para grupos de no mínimo 30 empreendedores.
 
@@ -596,31 +625,16 @@ A definição de 30 participantes como quantidade mínima para o Plano Grupo bus
 
 A disponibilização de tutoriais diretamente no site da plataforma reduz a necessidade de treinamentos presenciais e permite maior escalabilidade do atendimento. O suporte técnico permanece como responsabilidade do ACHOU!.
 
-A estrutura inicial com duas sócias permite manter os custos controlados, mas estabelece uma capacidade operacional inicial de 30 contratos de grupos. O atingimento dessa capacidade deverá funcionar como marco para avaliar contratação, automação e expansão.
+A estrutura inicial com duas sócias permite manter os custos controlados, mas estabelece uma capacidade operacional inicial de 30 contratos de grupos. O atingimento dessa capacidade funciona como marco para avaliar contratação, automação e expansão.
 
-O ponto de equilíbrio estimado entre 10 e 11 grupos indica potencial de sustentabilidade após a formação de uma base recorrente de clientes. A viabilidade efetiva dependerá, principalmente, da capacidade de aquisição e retenção dos grupos, da evolução dos custos tecnológicos e da eficiência operacional.
+O ponto de equilíbrio estimado entre 10 e 11 grupos indica potencial de sustentabilidade após a formação de uma base recorrente de clientes. A viabilidade efetiva depende, principalmente, da capacidade de aquisição e retenção dos grupos, da evolução dos custos tecnológicos e da eficiência operacional.
 
-A evolução do projeto pode ser sintetizada da seguinte forma:
+A evolução do projeto foi sintetizada da seguinte forma:
 
-FASE 1
-Ideação + Engenharia de Software + Prototipação
-                    ↓
-                 PROTÓTIPO
-                    ↓
-FASE 2
-Desenvolvimento incremental
-8 Sprints × 15 dias
-                    ↓
-              MVP FUNCIONAL
-                    ↓
-FASE 3
-Análise estratégica
-+ Modelo de negócio
-+ Monetização
-+ Plano de Negócios
-+ Estrutura operacional
-+ Estratégia de crescimento
-                    ↓
-                 STARTUP
+FASE 1 → Ideação + Engenharia de Software + Prototipação → PROTÓTIPO
+
+FASE 2 → Desenvolvimento incremental em 8 Sprints × 15 dias → MVP FUNCIONAL
+
+FASE 3 → Transformação da solução tecnológica em operação comercial sustentável + plano de negócios + estrutura operacional + estratégia de crescimento → STARTUP
 
 Assim, o presente Plano de Negócios representa a continuidade natural do desenvolvimento do ACHOU!, passando da construção e validação tecnológica para a estruturação de um modelo comercial sustentável e escalável.
