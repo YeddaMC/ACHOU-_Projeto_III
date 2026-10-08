@@ -19,7 +19,7 @@ O modelo de negócio possui dois públicos principais:
 - **empreendedores e organizações locais**, que utilizam a plataforma para ampliar sua presença digital;
 - **consumidores**, que utilizam a plataforma para localizar produtos e serviços próximos.
 
-O acesso individual possui uma modalidade gratuita e uma modalidade paga, na qual são disponibilizadas funcionalidades adicionais já existentes no MVP, como **destaques, relatórios e recursos promocionais**.
+O acesso individual possui uma modalidade gratuita e uma modalidade **premium**, na qual são disponibilizadas funcionalidades adicionais já existentes no MVP, como **destaques, relatórios, catálogo de produtos e campanhas promocionais**.
 
 A principal fonte de receita inicial será o **Plano ACHOU! Grupo**, destinado a grupos de **no mínimo 30 empreendedores**. O valor de referência será de **R$ 30,00 por empreendedor**, resultando em uma mensalidade mínima de **R$ 900,00 por grupo**, além de **R$ 2.500,00 de implantação, personalização e configuração**.
 
@@ -119,11 +119,12 @@ O ACHOU! possui dois públicos principais.
 
 São microempreendedores que desejam estabelecer ou ampliar sua presença digital.
 
-O acesso gratuito disponibiliza os recursos básicos da plataforma. Os empreendedores que desejarem ampliar sua divulgação poderão utilizar o **Plano Individual Pago**, que disponibiliza funcionalidades adicionais já presentes no MVP, como:
+O acesso gratuito disponibiliza os recursos básicos da plataforma. Os empreendedores que desejarem ampliar sua divulgação poderão utilizar o **Plano Individual Premium**, que disponibiliza funcionalidades adicionais já presentes no MVP, como:
 
-- destaques;
+- destaque do perfil;
 - relatórios;
-- recursos promocionais.
+- catálogo de produtos;
+- campanhas promocionais.
 
 ### Clientes de grupo
 
@@ -589,7 +590,7 @@ Os 30 grupos representam a **capacidade inicial da estrutura operacional**, e n�
 # 7. AVALIAÇÃO DO PLANO
 O ACHOU! apresenta uma base tecnológica já desenvolvida, reduzindo o risco associado à criação inicial do produto. A primeira fase resultou no **protótipo**, a segunda consolidou o **MVP**, e a terceira fase concentra-se na estruturação do **modelo de negócio, plano de negócios e estratégia de crescimento da startup**.
 
-O modelo de negócio combina acesso individual gratuito, funcionalidades adicionais mediante plano pago e contratos personalizados para grupos de no mínimo 30 empreendedores.
+O modelo de negócio combina acesso individual gratuito, funcionalidades adicionais mediante plano premium e contratos personalizados para grupos de no mínimo 30 empreendedores.
 
 A definição de 30 participantes como quantidade mínima para o Plano Grupo busca garantir que o esforço de personalização, configuração e isolamento do ambiente seja economicamente viável para o ACHOU!, mantendo simultaneamente um valor acessível para os participantes.
 
@@ -600,7 +601,6 @@ A estrutura inicial com duas sócias permite manter os custos controlados, mas e
 O ponto de equilíbrio estimado entre 10 e 11 grupos indica potencial de sustentabilidade após a formação de uma base recorrente de clientes. A viabilidade efetiva dependerá, principalmente, da capacidade de aquisição e retenção dos grupos, da evolução dos custos tecnológicos e da eficiência operacional.
 
 A evolução do projeto pode ser sintetizada da seguinte forma:
-
 
 FASE 1
 Ideação + Engenharia de Software + Prototipação
