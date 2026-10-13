@@ -95,9 +95,16 @@ A operação inicial não prevê contratação de empregados. As próprias sóci
 
 ### 1.8 Enquadramento tributário
 
-A empresa **optará pelo Simples Nacional** desde o início da operação, atendendo aos requisitos legais e tributários aplicáveis à atividade e ao faturamento.
+A empresa optará pelo regime de tributação do Simples Nacional, regulamentado pela Lei Complementar nº 123/2006.
 
-Para fins de planejamento financeiro inicial, será utilizada uma **alíquota estimada de 4% sobre a receita**, como premissa de planejamento. A tributação efetiva será acompanhada e ajustada por profissional de contabilidade conforme a evolução do faturamento e das operações da empresa.
+A definição das alíquotas aplicáveis e do anexo de tributação obedece aos seguintes critérios técnicos:
+
+- Classificação Nacional de Atividades Econômicas (CNAE):
+  - 6202-3/00: Desenvolvimento e licenciamento de programas de computador customizáveis.
+  - 6311-9/00: Tratamento de dados, provedores de serviços de aplicação e serviços de hospedagem na internet.
+  - 7319-0/04: Veiculação de publicidade por outros meios não especificados anteriormente.
+
+
 
 ---
 
