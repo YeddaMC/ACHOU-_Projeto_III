@@ -40,7 +40,7 @@ ENTREGAS
 | **Sprint 2** | 16/09 | Gestão Estratégica - Diagnóstico Externo | [Diagnóstico Externo](https://github.com/YeddaMC/ACHOU-_Projeto_III/wiki/Gest%C3%A3o-Estrat%C3%A9gica-%E2%80%90-Diagn%C3%B3stico-Externo) | ✅ |
 | **Sprint 3** | 22 a 24/09 | ⚠️ (3) 24/09 - Atividade 1: Extensão (oferta da ação de extensão, SCiTec) | [Repositorio](https://github.com/YeddaMC/VI_SciTec-PORTFOLIO_4.0-INTRODUCAO_A_ORGANIZACAO_DE_PROJETOS_E_VISIBILIDADE_COM_GITHUB/blob/main/README.md) |✅ |
 | **Sprint 4** | 01/10 | ⚠️ (4) 01/10 - Trabalho 2: Relatório Lições Aprendidas Extensão - SCITECLink | [Relatório](https://github.com/YeddaMC/VI_SciTec-PORTFOLIO_4.0-INTRODUCAO_A_ORGANIZACAO_DE_PROJETOS_E_VISIBILIDADE_COM_GITHUB/wiki/Documenta%C3%A7%C3%A3o-e-Evid%C3%AAncias-da-A%C3%A7%C3%A3o-de-Extens%C3%A3o-%22Portf%C3%B3lio-4.0%22-%E2%80%94-VI-SciTec.) |✅ |
-| **Sprint 6** | 29/10 | ⚠️ (5) 29/10 - Atividade 2: Ajustes e ensaio apresentação com dados completos do Plano | [Link](https://fade-static-33103070.figma.site/) |Em Andamneto |
+| **Sprint 6** | 29/10 | ⚠️ (5) 29/10 - Atividade 2: Ajustes e ensaio apresentação com dados completos do Plano | [Link](https://yeddaymc.github.io/V-WIPEX---2026.2---APRESENTA-O-DO-PLANO-DE-NEGOCIOS/) |Em Andamneto |
 | **Sprint 6** | 05/11 | ⚠️ (6) 05/11 VI WIPEX - BIBLIOTECA IFPR | [Link](#) | |
 | **Sprint 6** | 05/11 | ⚠️ (6) 05/11 - Atividade 3: Extensão VI WIPEX (organização, anais) | [Link](#) | |
 | **Sprint 7** | 07/11 *(Sáb)* | ⚠️ (7) 07/11 - Sábado Letivo: APS02 - Trabalho 3: Produto Educacional publicado | [Links](https://github.com/YeddaMC/ACHOU-_Projeto_III/wiki/Produtos-Educacionais-Publicados) |✅ |
