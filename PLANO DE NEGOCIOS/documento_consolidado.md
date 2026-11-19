@@ -1,4 +1,4 @@
-<img width="345" height="336" alt="image" src="https://github.com/user-attachments/assets/00172704-68a2-4038-9a32-485930c4afdc" />
+<img width="345" height="336" alt="image" src="https://github.com/user-attachments/assets/397de27e-7c1b-4a0f-9f9a-cf6dbbaa1402" />
 
 Mary Ana Carvalhais Carneiro
 Yedda Maria Carvalhais
@@ -266,4 +266,124 @@ A estratégia de receita baseia-se em duas fontes primárias[cite: 4]:
 | Ano 1 - Mês 6 | 8 | 20 | R$ 2.800,00 | R$ 598,00 | R$ 3.398,00[cite: 4] |
 | Ano 1 - Mês 12 | 15 | 35 | R$ 5.250,00 | R$ 1.046,50 | R$ 6.296,50[cite: 4] |
 | Ano 2 - Mês 24 | 30 | 50 | R$ 10.500,00 | R$ 1.495,00 | R$ 11.995,00[cite: 4] |
-| Ano 3 - Mês 36 (Cruzeiro) | 30 | 50 | R$ 10.500,00 | R$ 1.495
+| Ano 3 - Mês 36 (Cruzeiro) | 30 | 50 | R$ 10.500,00 | R$ 1.495,00 | R$ 11.995,00[cite: 4] |
+
+*Fonte: Elaborado pelas autoras com base nos dados projetados (2026).*[cite: 4]
+
+### Tabela 7 — Demonstrativo de Resultados do Exercício (DRE Projetado - 3 Anos)
+| Rubrica Financeira | Ano 1 (R$) | Ano 2 (R$) | Ano 3 (R$) |
+| :--- | :--- | :--- | :--- |
+| **Receita Bruta Operacional** | **R$ 44.250,00** | **R$ 118.470,00** | **R$ 143.940,00**[cite: 4] |
+| (-) Impostos sobre Serviços (Simples Nacional - 6%) | (R$ 2.655,00) | (R$ 7.108,20) | (R$ 8.636,40)[cite: 4] |
+| (-) Taxas de Meio de Pagamento / Gateway (3%) | (R$ 1.327,50) | (R$ 3.554,10) | (R$ 4.318,20)[cite: 4] |
+| **Receita Líquida** | **R$ 40.267,50** | **R$ 107.807,70** | **R$ 130.985,40**[cite: 4] |
+| (-) Custos Variáveis (Servidores, Nuvem, APIs) | (R$ 3.600,00) | (R$ 5.400,00) | (R$ 6.000,00)[cite: 4] |
+| **Margem de Contribuição** | **R$ 36.667,50** | **R$ 102.407,70** | **R$ 124.985,40**[cite: 4] |
+| (-) Despesas Fixas Operacionais | (R$ 18.000,00) | (R$ 21.600,00) | (R$ 24.000,00)[cite: 4] |
+| -- Marketing & Aquisição (CAC) | (R$ 6.000,00) | (R$ 7.200,00) | (R$ 7.200,00)[cite: 4] |
+| -- Manutenção & Suporte Técnico | (R$ 7.200,00) | (R$ 8.400,00) | (R$ 9.600,00)[cite: 4] |
+| -- Despesas Administrativas & Contabilidade | (R$ 4.800,00) | (R$ 6.000,00) | (R$ 7.200,00)[cite: 4] |
+| **EBITDA / Lucro Operacional** | **R$ 18.667,50** | **R$ 80.807,70** | **R$ 100.985,40**[cite: 4] |
+| (-) Depreciação / Amortização | (R$ 1.500,00) | (R$ 1.500,00) | (R$ 1.500,00)[cite: 4] |
+| **Lucro Líquido do Exercício** | **R$ 17.167,50** | **R$ 79.307,70** | **R$ 99.485,40**[cite: 4] |
+| **Margem Líquida (%)** | **38,79%** | **66,94%** | **69,11%**[cite: 4] |
+
+*Fonte: Elaborado pelas autoras com base nos dados projetados (2026).*[cite: 4]
+
+## 5.4 Capital de giro
+O Capital de Giro foi dimensionado em R$ 10.000,00 (representando 42,13% do investimento inicial total) para assegurar a liquidez e a sustentabilidade financeira da operação durante a curva de maturação comercial e aquisição dos primeiros clientes[cite: 4].
+
+### Tabela 8 — Detalhamento do Capital de Giro
+| Componente do Capital de Giro | Descrição / Destinação | Valor (R$) |
+| :--- | :--- | :--- |
+| Cobertura da Rampa Operacional (3 meses) | Cobertura do déficit operacional dos primeiros meses de operação[cite: 4] | R$ 6.000,00[cite: 4] |
+| Reserva de Segurança Operacional | Fundo de reserva[cite: 4] | R$ 4.000,00[cite: 4] |
+| **Total do Capital de Giro** | **Reserva Operacional Total** | **R$ 10.000,00**[cite: 4] |
+
+*Fonte: Elaborado pelas autoras com base nos dados projetados (2026).*[cite: 4]
+
+## 5.5 Indicadores de viabilidade
+A análise de viabilidade financeira consolida a capacidade do negócio de gerar retorno sobre o capital investido, indicando o nível de lucratividade, a eficiência da operação e o tempo necessário para a recuperação dos investimentos iniciais[cite: 4].
+* **Ponto de Equilíbrio (Break-even Point):** Considerando a estrutura mensal de custos fixos operacionais do Ano 1 (R$ 7.107,34/mês, incluindo o Pró-Labore de R$ 6.084,00) e a margem de contribuição média de 82,8%, o Ponto de Equilíbrio financeiro é atingido com uma receita mensal de R$ 7.561,00 (equivalente a 5 grupos B2B ativos)[cite: 4]. Este patamar é superado a partir do 5º mês de operação (quando a base atinge 6 grupos B2B e 15 assinantes individuais), momento em que a receita mensal atinge a faixa de R$ 9.945,00, cobrindo integralmente as despesas fixas e variáveis com margem de segurança[cite: 4].
+* **Payback do Investimento:** O Payback descontado/simples do investimento total de R$ 23.735,00 é alcançado formalmente no 5º mês de operação de caixa acumulado, impulsionado pela baixa necessidade de CAPEX adicional e pela diluição dos custos fixos[cite: 4].
+* **Retorno sobre o Investimento (ROI):** Calculado com base no Lucro Líquido gerado em relação ao Investimento Total Necessário (R$ 23.735,00)[cite: 4]:
+  * *ROI Ano 1:* 49,42%[cite: 4]
+  * *ROI Ano 2:* 228,32%[cite: 4]
+  * *ROI Ano 3 (Cruzeiro):* 286,41%[cite: 4]
+  * *ROI Acumulado (3 Anos):* 564,15%[cite: 4]
+
+### Tabela 9 — Margem de Lucro / Margem Líquida Anual
+| Período | Receita Bruta (R$) | Lucro Líquido (R$) | Margem Líquida (%) |
+| :--- | :--- | :--- | :--- |
+| Ano 1 | R$ 44.250,00 | R$ 17.167,50 | 38,79%[cite: 4] |
+| Ano 2 | R$ 118.470,00 | R$ 79.307,70 | 66,94%[cite: 4] |
+| Ano 3 (Cruzeiro) | R$ 143.940,00 | R$ 99.485,40 | 69,11%[cite: 4] |
+
+*Fonte: Elaborado pelas autoras com base nos dados projetados (2026).*[cite: 4]
+
+A evolução progressiva da Margem Líquida demonstra o alto ganho de escala inerente ao modelo de negócios digital[cite: 4]. No Ano 1, a margem de 38,79% reflete a fase de rampa operacional e absorção dos custos fixos iniciais[cite: 4]. À medida que a base de clientes expande no Ano 2, a margem atinge 66,94%[cite: 4]. Com a maturação do modelo no Ano 3 em regime de cruzeiro, a rentabilidade estabiliza em 69,11%, evidenciando a forte eficiência operacional e a diluição dos custos fixos sobre uma receita recorrente consolidada[cite: 4].
+
+### Tabela 10 — Resumo dos Indicadores Chave (KPIs)
+| Indicador | Valor Projetado | Observação Estratégica |
+| :--- | :--- | :--- |
+| **Investimento Total** | R$ 23.735,00 | Inclui R$ 10.000,00 de Capital de Giro ajustado[cite: 4] |
+| **Ponto de Equilíbrio (Break-even)** | R$ 7.561,00 / mês | Atingido no 5º mês de operação[cite: 4] |
+| **Payback** | 5º Mês | Recuperação integral do capital investido[cite: 4] |
+| **Margem Líquida (Ano 3)** | 69,11% | Alta rentabilidade em modelo SaaS/Plataforma[cite: 4] |
+| **Teto de Conversão Individual** | 50 assinantes | 5% sobre a base máxima de 1.000 anunciantes[cite: 4] |
+| **Capacidade B2B (Cruzeiro)** | 30 Grupos | Atingida no Ano 2 e mantida no Ano 3[cite: 4] |
+
+*Fonte: Elaborado pelas autoras com base nos dados projetados (2026).*[cite: 4]
+
+## 5.6 Cenários Alternativos
+A projeção financeira foi estruturada sob premissas conservadoras de prospecção (adição gradual de 1,25 grupos B2B/mês no Ano 1 e teto de conversão de 5% nos planos individuais), configurando um cenário-base prudente e resiliente[cite: 4]. Caso a taxa de adesão comercial seja mais lenta nos primeiros meses, a reserva de Capital de Giro de R$ 10.000,00 (com R$ 6.000,00 destinados à cobertura da rampa operacional de 3 meses e R$ 4.000,00 como reserva de segurança) garante a continuidade operacional sem necessidade de novos aportes[cite: 4]. Por outro lado, em um cenário otimista de aceleração na captação de associações e grupos empresariais ou expansão para municípios vizinhos após o Ano 2, a estrutura enxuta em nuvem permite escalar a receita recorrente com baixo impacto marginal nos custos variáveis, ampliando ainda mais a geração de caixa livre[cite: 4].
+
+> ⬆️ [Voltar ao Sumário](#sumário)
+
+---
+
+# 6. ANÁLISE ESTRATÉGICA
+Mapeamento das forças e fraquezas internas somadas às oportunidades e ameaças externas e elaboração de ações direcionadas a partir do cruzamento dessas informações[cite: 4].
+
+## 6.1 Análise SWOT
+A Análise SWOT mapeia as forças e fraquezas internas do sistema, bem como as oportunidades e ameaças do ambiente externo[cite: 4].
+
+### Tabela 11 — Matriz SWOT
+| Ambiente Interno | Ambiente Externo |
+| :--- | :--- |
+| **FORÇAS:**<br>• Baixa barreira de entrada e simplicidade operacional para o microempreendedor.<br>• Previsibilidade de custos e isenção de taxas sobre vendas.<br>• Arquitetura em nuvem de baixo custo e escalável com serviços integrados.<br>• Proposta de valor alinhada à economia de proximidade em tendência de crescimento.[cite: 4] | **OPORTUNIDADES:**<br>• Crescimento da demanda por soluções de consumo hiperlocal e valorização do comércio de bairro.<br>• Possibilidade de expansão via licenciamento da plataforma para associações e cooperativas.<br>• Acesso a editais de fomento público e subvenção econômica para inovação e desenvolvimento regional.[cite: 4] |
+| **FRAQUEZAS:**<br>• Dependência do empreendedor para a manutenção de informações atualizadas.<br>• Ausência de métricas de conversão financeira direta (sem intermediação de pagamentos).<br>• Restrição de recursos orçamentários iniciais para campanhas de marketing de grande alcance.<br>• Estágio inicial de maturidade da base de estabelecimentos cadastrados.[cite: 4] | **AMEAÇAS:**<br>• Resistência à adoção de novas tecnologias por parte de comerciantes tradicionais.<br>• Mudanças em preços ou termos de serviço dos provedores de infraestrutura e comunicação em nuvem.<br>• Concorrência indireta de grandes plataformas de busca e redes sociais consolidadas.<br>• Alterações nas diretrizes regulatórias e fiscais aplicáveis a serviços de tecnologia e privacidade de dados.[cite: 4] |
+
+*Fonte: Elaborado pelas autoras (2026).*[cite: 4]
+
+### Tabela 12 — Cruzamento Estratégico (Matriz TOWS)
+| Estratégia | Cruzamento | Ação Principal | Detalhamento |
+| :--- | :--- | :--- | :--- |
+| **1. Alavancagem e Crescimento** | Forças + Oportunidades[cite: 4] | Acelerar adesão e captar recursos[cite: 4] | Usar a simplicidade operacional, isenção de taxas e baixo custo em nuvem para posicionar a plataforma na onda de consumo hiperlocal, buscando parcerias com associações e editais de fomento[cite: 4]. |
+| **2. Eficiência e Validação** | Fraquezas + Oportunidades[cite: 4] | Validar dados e compensar marketing[cite: 4] | Reduzir a dependência da atualização de dados pelo comerciante por meio da facilidade de uso e do apoio de associações locais para escalar a base sem depender de grandes orçamentos[cite: 4]. |
+| **3. Mitigação de Barreiras** | Forças + Ameaças[cite: 4] | Vencer a resistência tecnológica[cite: 4] | Superar a hesitação dos comerciantes tradicionais destacando o custo zero sobre vendas e a facilidade de uso, enquanto a infraestrutura leve absorve variações de custo em nuvem[cite: 4]. |
+| **4. Proteção e Sustentabilidade** | Fraquezas + Ameaças[cite: 4] | Garantir conformidade e retenção[cite: 4] | Compensar a falta de métricas financeiras diretas e a concorrência de grandes plataformas fortalecendo o relacionamento comunitário e a conformidade rigorosa com a LGPD[cite: 4]. |
+
+*Fonte: Elaborado pelas autoras (2026).*[cite: 4]
+
+> ⬆️ [Voltar ao Sumário](#sumário)
+
+---
+
+# 7. AVALIAÇÃO DO PLANO
+O presente plano de negócios detalha a estruturação de uma plataforma tecnológica hiperlocal desenvolvida para atender às demandas do Arranjo Produtivo Local de Pinhais[cite: 4]. O grande diferencial do ecossistema reside em garantir a previsibilidade financeira aos empreendedores, eliminando taxas e comissões sobre as vendas, assegurando previsibilidade e controle nos processos operacionais e mantendo custos que não impactam a sua precificação[cite: 4].
+
+Do ponto de vista financeiro e estratégico, as margens e a precificação foram pensadas com foco no modelo de valor SaaS B2B / Plataforma de Licenciamento de Uso, e o dimensionamento operacional prevê maneiras de não engessar o crescimento, preparando a empresa para se desenvolver com foco em expansão a partir do segundo ano[cite: 4]. Com um investimento inicial enxuto de R$ 23.735,00 (incluindo R$ 10.000,00 de capital de giro), ponto de equilíbrio financeiro de R$ 7.561,00/mês e payback alcançado no 5º mês de operação, a operação comprova alta eficiência, atingindo margem líquida de 69,11% no Ano 3 em regime de cruzeiro e ROI acumulado de 564,15% nos três primeiros anos, garantindo sustentabilidade de longo prazo, solidez e baixo risco[cite: 4].
+
+> ⬆️ [Voltar ao Sumário](#sumário)
+
+---
+
+# REFERÊNCIAS
+* CHIAVENATO, Idalberto; SAPIRO, Arão. **Planejamento Estratégico: Fundamentos e Aplicações**. Rio de Janeiro: Elsevier, 2016.
+* CHERUBINI, Arnaldo; SEBRAE. **Modelo de Negócios e Canvas: Guia prático para estruturação de empresas**. Curitiba: Sebrae/PR, 2018.
+* OLIVEIRA, Djalma de Pinho Rebouças de. **Planejamento Estratégico: Conceitos, Metodologia e Práticas**. São Paulo: Atlas, 2020.
+* RIES, Eric. **A Startup Enxuta: Como os empreendedores atuais utilizam a inovação contínua para criar negócios extremamente bem-sucedidos**. São Paulo: Leya, 2012.
+* SEBRAE. **Como elaborar um plano de negócios**. Brasília: Sebrae, 2013.
+
+> ⬆️ [Voltar ao Sumário](#sumário)
