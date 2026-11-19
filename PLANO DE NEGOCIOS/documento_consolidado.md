@@ -1,654 +1,269 @@
-# PLANO DE NEGÓCIOS — ACHOU!
+<img width="345" height="336" alt="image" src="https://github.com/user-attachments/assets/00172704-68a2-4038-9a32-485930c4afdc" />
 
-## 1. SUMÁRIO EXECUTIVO
+Mary Ana Carvalhais Carneiro
+Yedda Maria Carvalhais
 
-### 1.1 Resumo dos principais pontos do plano de negócio
-
-
-
-O ACHOU! é uma plataforma digital georreferenciada voltada à economia de proximidade, criada para ampliar a presença digital de microempreendedores e facilitar o acesso da população a produtos e serviços locais no município de Pinhais.
-
-A justificativa e a importância desta solução fundamentam-se na aderência à Agenda 2030 da Organização das Nações Unidas (ONU), por meio do atendimento a três Objetivos de Desenvolvimento Sustentável (ODS). O projeto contribui para o **ODS 8 (Trabalho Decente e Crescimento Econômico)** ao fortalecer o comércio de base e gerar renda local. Atende também ao **ODS 9 (Indústria, Inovação e Infraestrutura)** ao promover o acesso à infraestrutura tecnológica para a inclusão digital de pequenos negócios. Por fim, alinha-se ao **ODS 11 (Cidades e Comunidades Sustentáveis)** ao incentivar a mobilidade ativa e o consumo local baseado no conceito de cidades de proximidade.
-
-O projeto foi desenvolvido em três fases:
-
-**Fase 1 — Ideação, especificação e prototipação:** compreendeu a identificação do problema, concepção da solução, Engenharia de Software, elicitação e especificação de requisitos, User Stories, modelagem UML, definição da arquitetura e do escopo. Essa fase foi concluída com a elaboração do **protótipo**.
-
-**Fase 2 — Desenvolvimento e consolidação do MVP:** a partir das User Stories priorizadas, o sistema foi desenvolvido de forma incremental em **8 Sprints de 15 dias**, com testes, homologação e evolução progressiva da solução. Essa etapa resultou na consolidação do **Produto Mínimo Viável (MVP)**. O desenvolvimento registrou 88 tarefas técnicas concluídas e integradas ao ambiente de produção.
-
-**Fase 3 — O negócio parte de um MVP já desenvolvido e homologado.** A etapa atual concentra-se na transformação da solução tecnológica em uma operação comercial sustentável, com a elaboração de um plano de negócios abrangendo análise de mercado, plano de marketing, plano operacional, plano financeiro, análise estratégica e avaliação do modelo de negócio.
-
-O modelo de negócio possui dois públicos principais:
-
-- **empreendedores e organizações locais**, que utilizam a plataforma para ampliar sua presença digital;
-- **consumidores**, que utilizam a plataforma para localizar produtos e serviços próximos.
-
-O acesso individual possui uma modalidade gratuita e uma modalidade **premium**, na qual são disponibilizadas funcionalidades adicionais já existentes no MVP, como **destaques, relatórios, catálogo de produtos e campanhas promocionais**.
-
-A principal fonte de receita inicial será o **Plano ACHOU! Grupo**, destinado a grupos de **no mínimo 30 empreendedores**. O valor de referência será de **R$ 30,00 por empreendedor**, resultando em uma mensalidade mínima de **R$ 900,00 por grupo**, além de **R$ 2.500,00 de implantação, personalização e configuração**.
-
-O modelo não utiliza comissão sobre vendas. O ACHOU! atua como uma ponte tecnológica, mantendo o contato comercial diretamente entre consumidor e empreendedor.
+# Achou!
+## Plano de Negócios
+**Disciplina:** Empreendedorismo  
+**Docente:** Prof. Dr. Roberto Carlos Dalongaro  
+Pinhais PR, Brasil  
+2026
 
 ---
 
-### 1.2 Conceito do negócio
-
-O ACHOU! é uma plataforma digital georreferenciada que conecta consumidores a empreendedores e organizações locais.
-
-A plataforma permite localizar negócios por proximidade e entrar em contato diretamente com o responsável pelo estabelecimento, sem intermediação financeira.
-
-O sistema possui três modalidades principais de utilização:
-
-- **Plano Individual Gratuito:** acesso aos recursos básicos de cadastro, direito a um anúncio com upload de uma imagem, localização, adição de redes sociais e contato;
-- **Plano Individual Premium:** disponibiliza funcionalidades adicionais como criação de catálogos de produtos, destaques, relatórios e participação em campanhas promocionais, por **R$ 60,00 mensais**, sem taxa de adesão;
-- **Plano ACHOU! Grupo:** solução personalizada para grupos de no mínimo 30 empreendedores ou organizações, com personalização da interface e ambiente de dados isolado.
-
-O Plano Grupo foi estruturado a partir de uma quantidade mínima de participantes que torne economicamente viável para o ACHOU! realizar a personalização da interface, configuração e isolamento do ambiente.
-
-No Plano Grupo, a própria organização define os usuários autorizados a publicar e realizar a moderação dos conteúdos. O ACHOU! permanece responsável pelo suporte técnico da plataforma.
-
----
-
-### 1.3 Missão do negócio
-
-Promover inclusão e fortalecimento digital de negócios locais por meio de uma plataforma simples, acessível e georreferenciada, ampliando sua visibilidade e aproximando empreendedores e consumidores sem intermediação financeira.
-
----
-
-### 1.4 Visão
-
-Tornar-se uma plataforma de referência para a economia de proximidade no APL de Pinhais, ampliando posteriormente sua aplicação para outras localidades e organizações.
-
----
-
-### 1.5 Valores
-
-- **Inclusão e Acessibilidade Digital**: Compromisso com o desenvolvimento de interfaces simplificadas que eliminem barreiras de usabilidade para indivíduos com diferentes níveis de alfabetização tecnológica.
-- **Respeito à Autonomia Operacional**: Preservação da não interferência nas regras de negócio, fluxos de trabalho ou margens financeiras dos estabelecimentos cadastrados, atuando estritamente como ponte tecnológica de conexão.
-- **Simplicidade e Transparência**: Manutenção de processos diretos de navegação e comunicação, pautados pela ausência de taxas ocultas ou intermediações desnecessárias.
-
----
-
-### 1.6 Setores de atividades
-
-O empreendimento atua no setor terciário da economia, abrangendo duas frentes de mercado:
-
-**Setor primário de atuação (B2B / B2B2C):** tecnologia da informação, sob o modelo de Software como Serviço (SaaS).
-
-- **B2B:** plataforma comercializada em versão customizada (White Label) para associações, cooperativas e organizações locais, mediante taxa única de implementação e mensalidade fixa para manutenção e hospedagem.
-- **B2B2C:** contratos individuais com empreendedores e prestadores de serviços, no modelo freemium, com camada básica gratuita e planos pagos para recursos adicionais.
-
-**Setor de impacto e atuação indireta (B2C):** comércio varejista e prestação de serviços no APL de Pinhais.
-
-- **B2B2C voltado ao empreendedor individual:** adesão autônoma para visibilidade local e direcionamento de clientes, com monetização por meio de planos premium e recursos adicionais.
-- **B2B direcionado a grupos:** contratação por associações comerciais, cooperativas ou centros comerciais, com modelo White Label, taxa de implementação e mensalidades fixas.
+# SUMÁRIO
+* [1. SUMÁRIO EXECUTIVO](#1-sumário-executivo)
+  * [1.1 Resumo dos principais pontos do plano de negócio](#11-resumo-dos-principais-pontos-do-plano-de-negócio)
+  * [1.2 Conceito do negócio](#12-conceito-do-negócio)
+  * [1.3 Missão do negócio](#13-missão-do-negócio)
+  * [1.4 Visão](#14-visão)
+  * [1.5 Valores](#15-valores)
+  * [1.6 Setores de atividades](#16-setores-de-atividades)
+  * [1.7 Forma jurídica](#17-forma-jurídica)
+  * [1.8 Enquadramento tributário](#18-enquadramento-tributário)
+  * [1.9 Capital social e Fonte de recursos](#19-capital-social-e-fonte-de-recursos)
+* [2. ANÁLISE DE MERCADO](#2-análise-de-mercado)
+  * [2.1 Estudo dos clientes](#21-estudo-dos-clientes)
+  * [2.2 Estudo dos Concorrentes](#22-estudo-dos-concorrentes)
+  * [2.3 Estudo dos Fornecedores](#23-estudo-dos-fornecedores)
+* [3. PLANO DE MARKETING](#3-plano-de-marketing)
+  * [3.1 Produto](#31-produto)
+  * [3.2 Preço](#32-preço)
+  * [3.3 Praça](#33-praça)
+  * [3.4 Promoção](#34-promoção)
+* [4. PLANO OPERACIONAL](#4-plano-operacional)
+  * [4.1 Layout ou arranjo físico](#41-layout-ou-arranjo-físico)
+  * [4.2 Capacidade produtiva, comercial e de prestação de serviços](#42-capacidade-produtiva-comercial-e-de-prestação-de-serviços)
+  * [4.3 Processos operacionais](#43-processos-operacionais)
+  * [4.4 Necessidade de Pessoal](#44-necessidade-de-pessoal)
+* [5. PLANO FINANCEIRO](#5-plano-financeiro)
+  * [5.1 Investimentos](#51-investimentos)
+  * [5.2 Composição dos principais gastos](#52-composição-dos-principais-gastos)
+  * [5.3 Evolução dos resultados econômicos e financeiros (projetados)](#53-evolução-dos-resultados-econômicos-e-financeiros-projetados)
+  * [5.4 Capital de giro](#54-capital-de-giro)
+  * [5.5 Indicadores de viabilidade](#55-indicadores-de-viabilidade)
+  * [5.6 Cenários Alternativos](#56-cenários-alternativos)
+* [6. ANÁLISE ESTRATÉGICA](#6-análise-estratégica)
+  * [6.1 Análise SWOT](#61-análise-swot)
+* [7. AVALIAÇÃO DO PLANO](#7-avaliação-do-plano)
+* [REFERÊNCIAS](#referências)
 
 ---
 
-### 1.7 Forma jurídica
+# 1. SUMÁRIO EXECUTIVO
 
-A empresa será constituída inicialmente como **Sociedade Empresária Limitada (LTDA)**, formada pelas duas sócias fundadoras.
+## 1.1 Resumo dos principais pontos do plano de negócio
+O presente plano de negócios apresenta uma plataforma tecnológica hiperlocal desenvolvida para atender às demandas de visibilidade digital do Arranjo Produtivo Local do município de Pinhais[cite: 4]. O sistema visa integrar comerciantes, prestadores de serviços e consumidores finais por meio de uma solução digital simplificada e isenta de barreiras operacionais ou financeiras[cite: 4]. Ao atuar como um catalisador de oportunidades locais, a plataforma promove a visibilidade dos pequenos empreendimentos, otimiza as interações comerciais cotidianas e impulsiona o desenvolvimento econômico sustentável da região[cite: 4].
 
-A operação inicial não prevê contratação de empregados. As próprias sócias serão responsáveis pela gestão, desenvolvimento, atendimento, marketing, manutenção e administração dos contratos.
+## 1.2 Conceito do negócio
+O conceito fundamenta-se na criação de um ecossistema digital hiperlocal focado na economia de proximidade e no conceito de cidades sustentáveis (Cidades de 15 Minutos)[cite: 4]. A solução funciona como um diretório e canal direto de conexão entre empreendedores de Pinhais e a comunidade local, eliminando intermediários complexos ou custos abusivos[cite: 4]. A ferramenta utiliza fluxos simplificados de comunicação e navegação para garantir a inclusão digital de agentes com diferentes níveis de instrução tecnológica, fortalecendo a rede de comércio e serviços do Arranjo Produtivo Local[cite: 4].
 
----
+## 1.3 Missão do negócio
+Promover a inclusão digital e fortalecer a economia de proximidade no Arranjo Produtivo Local de Pinhais, fornecendo uma ferramenta tecnológica hiperlocal, simples e sem barreiras financeiras ou operacionais, que garanta visibilidade a comerciantes e prestadores de serviços locais, conectando-os diretamente ao consumidor final[cite: 4].
 
-### 1.8 Enquadramento tributário
+## 1.4 Visão
+Consolidar-se como a plataforma de referência no fomento ao comércio e à prestação de serviços no Arranjo Produtivo Local da cidade de Pinhais, democratizando o acesso à tecnologia e valorizando o pequeno empreendedor de forma sustentável e humanizada[cite: 4].
 
-A empresa optará pelo regime de tributação do Simples Nacional, regulamentado pela Lei Complementar nº 123/2006.
+## 1.5 Valores
+* **Inclusão e Acessibilidade:** Eliminar barreiras de usabilidade para comerciantes e consumidores com diferentes níveis de literacia digital[cite: 4].
+* **Proximidade e Valorização Local:** Fortalecer o ecossistema hiperlocal do Arranjo Produtivo Local, estimulando visibilidade digital[cite: 4].
+* **Simplicidade Operacional:** Focar em fluxos diretos que se integrem harmoniosamente com as ferramentas e a rotina já dominadas pelo empreendedor[cite: 4].
 
-A definição das alíquotas aplicáveis e do anexo de tributação obedece aos seguintes critérios técnicos:
+## 1.6 Setores de atividades
+O empreendimento atua no setor terciário da economia, abrangendo duas frentes de mercado[cite: 4]:
+* **Setor Primário de Atuação (B2B/B2C / SaaS B2B):** Tecnologia da Informação e Software como Serviço[cite: 4]. O sistema consiste no desenvolvimento, licenciamento e manutenção da plataforma digital[cite: 4]. Oferece opção de customização de marca e interface para contratação coletiva por cooperativas, associações comerciais e pequenos centros comerciais[cite: 4].
+* **Setor de Impacto e Atuação Indireta (B2C):** Comércio varejista e prestação de serviços no Arranjo Produtivo Local de Pinhais, atuando como canal tecnológico de visibilidade e dinamização econômica de proximidade[cite: 4].
 
-- Classificação Nacional de Atividades Econômicas (CNAE):
-  - 6202-3/00: Desenvolvimento e licenciamento de programas de computador customizáveis.
-  - 6311-9/00: Tratamento de dados, provedores de serviços de aplicação e serviços de hospedagem na internet.
-  - 7319-0/04: Veiculação de publicidade por outros meios não especificados anteriormente.
+Conforme a Classificação Nacional de Atividades Econômicas (CNAE/IBGE), as atividades primárias e secundárias do empreendimento estão enquadradas nos seguintes códigos: **6202-3/00** (Desenvolvimento e licenciamento de programas de computador customizáveis — atividade principal), **6311-9/00** (Tratamento de dados, provedores de serviços de aplicação e serviços de hospedagem na internet) e **7319-0/04** (Veiculação de publicidade por outros meios não especificados anteriormente)[cite: 4].
 
+## 1.7 Forma jurídica
+A natureza jurídica definida para o empreendimento é Sociedade Limitada (LTDA)[cite: 4].
 
+## 1.8 Enquadramento tributário
+A empresa optará pelo regime de tributação do Simples Nacional, regulamentado pela Lei Complementar nº 123/2006[cite: 4].
 
----
+**Classificação Nacional de Atividades Econômicas (CNAE):**
+* **6202-3/00:** Desenvolvimento e licenciamento de programas de computador customizáveis[cite: 4].
+* **6311-9/00:** Tratamento de dados, provedores de serviços de aplicação e serviços de hospedagem na internet[cite: 4].
+* **7319-0/04:** Veiculação de publicidade por outros meios não especificados anteriormente[cite: 4].
 
-### 1.9 Capital social e fonte de recursos
+*Vantagens Operacionais:* Unificação da arrecadação de impostos federais, estaduais e municipais por meio do DAS (Documento de Arrecadação do Simples Nacional)[cite: 4].
 
-O investimento inicial estimado para implantação da operação é de **R$ 12.500,00**, composto por:
+## 1.9 Capital social e Fonte de recursos
+O montante nominal a ser integralizado na constituição da empresa é de R$ 23.735,00, abrangendo o capital de giro operacional, equipamentos, licenças de software, custeio da infraestrutura em nuvem e taxas de conformidade legal e fiscal para o início da atividade[cite: 4].
 
-| Categoria | Valor |
-|---|---:|
-| Investimentos fixos | R$ 500,00 |
-| Capital de giro | R$ 8.000,00 |
-| Investimentos pré-operacionais | R$ 4.000,00 |
-| **Total** | **R$ 12.500,00** |
+### Tabela 1 — Composição do Capital Social e Fontes de Recursos
+| Sócia / Origem do Recurso | Participação (%) | Valor Integralizado (R$) | Forma de Integralização |
+| :--- | :--- | :--- | :--- |
+| Mary Ana Carvalhais Carneiro (Recursos Próprios) | 50,00% | R$ 11.867,50 | Moeda corrente nacional[cite: 4] |
+| Yedda Maria Carvalhais (Recursos Próprios) | 50,00% | R$ 11.867,50 | Moeda corrente nacional[cite: 4] |
+| **Capital Social Total Integralizado** | **100,00%** | **R$ 23.735,00** | **Aporte inicial total**[cite: 4] |
 
-Os recursos serão provenientes inicialmente das próprias sócias, sem previsão de financiamento externo.
+*Fonte: Elaborado pelas autoras com base nos dados projetados (2026).*[cite: 4]
+
+* **Composição do Capital:** A integralização é realizada em moeda corrente nacional, dividida em cotas idênticas distribuídas entre as sócias fundadoras[cite: 4].
+* **Fontes de Recursos e Estrutura de Receita:**
+  * **Recursos Próprios:** Aporte inicial integralizado pelas sócias fundadoras no valor total de R$ 23.735,00 (100%)[cite: 4].
+  * **Licenciamento de Software e Customização (B2B):** Faturamento recorrente advindo da disponibilização da plataforma para grupos empresariais, associações e entidades coletivas[cite: 4].
+  * **Monetização de Serviços de Visibilidade (B2C / Individual Premium):** Planos de destaque individual e funcionalidades avançadas para comerciantes e prestadores de serviços locais no Arranjo Produtivo Local de Pinhais[cite: 4].
+  * **Fomento Público à Inovação:** Possibilidade futura de captação via editais estaduais e federais voltados ao desenvolvimento tecnológico regional e apoio a novas empresas[cite: 4].
+
+> ⬆️ [Voltar ao Sumário](#sumário)
 
 ---
 
 # 2. ANÁLISE DE MERCADO
+A Análise de Mercado estrutura o entendimento do ambiente em que a plataforma digital opera, identificando os segmentos atendidos, a dinâmica da concorrência e a dependência da cadeia de fornecedores de tecnologia[cite: 4].
 
 ## 2.1 Estudo dos clientes
+A plataforma opera em um modelo de dois lados, em que a relação comercial direta de contratação difere do uso final do sistema[cite: 4]:
+* **Clientes Pagantes (B2B / SaaS B2B):** Os clientes diretos do sistema constituem-se por microempreendedores individuais, pequenos comerciantes, prestadores de serviços, cooperativas e associações comerciais do Arranjo Produtivo Local de Pinhais[cite: 4]. O serviço comercializado não envolve a venda direta de produtos ao consumidor final, mas a entrega de visibilidade digital, presença hiperlocal e geração de tráfego[cite: 4]. O perfil operacional dos empreendedores individuais é caracterizado por baixo letramento digital, restrição de orçamento e reduzida disponibilidade de tempo para a gestão de lojas virtuais complexas[cite: 4]. A motivação para a adesão ao sistema fundamenta-se na necessidade de divulgação do negócio sem a incidência de taxas por transação e na simplificação do fluxo de atendimento, direcionado diretamente para o aplicativo de mensagem já utilizado na rotina da empresa[cite: 4]. Para entidades coletivas e associações, a contratualização sob a modalidade de licenciamento customizado atende à demanda de fortalecimento do ecossistema comercial local e integração dos associados em uma única infraestrutura digital[cite: 4].
+* **Usuários Finais (B2C):** Os usuários finais da plataforma englobam os moradores e trabalhadores que transitam pelo Arranjo Produtivo Local de Pinhais[cite: 4]. Este público não realiza pagamento pelo uso do sistema, utilizando a ferramenta como um diretório de geolocalização para a busca de estabelecimentos, produtos e serviços de proximidade[cite: 4]. O comportamento deste segmento é impulsionado pela busca por conveniência, agilidade e pelo alinhamento ao modelo urbano de consumo local[cite: 4].
 
-O ACHOU! possui dois públicos principais.
+## 2.2 Estudo dos Concorrentes
+O ambiente competitivo é composto por alternativas digitais de abrangência geral, diretórios geográficos e ferramentas de comunicação[cite: 4]:
+* **Marketplaces e Aplicativos de Entrega:** Oferecem suporte à transação financeira e logística, porém impõem taxas elevadas sobre as vendas, regras complexas e alto nível de interferência nas rotinas do empreendedor[cite: 4].
+* **Diretórios e Ferramentas de Mapeamento Geral:** Apresentam ampla base de usuários e precisão de geolocalização[cite: 4]. Contudo, exibem falhas de continuidade na jornada do usuário que facilmente resultam na perda da oportunidade de contato[cite: 4].
+* **Redes Sociais e Aplicativos de Mensagem:** Apresentam alta adoção pelos comerciantes, mas carecem de organização em formato de catálogo para buscas locais[cite: 4].
 
-### Clientes individuais
+O diferencial competitivo da plataforma reside no fechamento da lacuna entre a descoberta digital e o início da conversão comercial[cite: 4]. A eliminação da camada de intermediação financeira e a conexão direta com o canal de atendimento do comerciante reduzem o atrito no funil de vendas[cite: 4]. A baixa interferência mantém a previsibilidade sobre custos e processos[cite: 4].
 
-São microempreendedores que desejam estabelecer ou ampliar sua presença digital.
+### Tabela 2 — Análise Comparativa dos Principais Concorrentes
+| Categoria de Concorrente | Exemplos de Mercado | Pontos Fortes | Limitações / Pontos Fracos | Diferencial Competitivo da Achou! |
+| :--- | :--- | :--- | :--- | :--- |
+| Marketplaces e Apps de Entrega | iFood, Rappi, Mercado Livre | Alta base de usuários e logística integrada[cite: 4] | Taxas elevadas por transação, regras rígidas e interferência na operação[cite: 4] | Isenção total de taxas sobre vendas e autonomia operacional do lojista[cite: 4] |
+| Diretórios e Mapas Gerais | Google Maps, Waze | Precisão de geolocalização e alcance global[cite: 4] | Falha na continuidade da jornada e falta de foco no comércio hiperlocal[cite: 4] | Conexão direta sem atrito do catálogo ao WhatsApp do comerciante[cite: 4] |
+| Redes Sociais e Mensageiros | Instagram, WhatsApp | Alta adesão e familiaridade dos empreendedores[cite: 4] | Falta de organização em catálogo pesquisável por proximidade[cite: 4] | Diretório georreferenciado estruturado para busca hiperlocal[cite: 4] |
 
-O acesso gratuito disponibiliza os recursos básicos da plataforma. Os empreendedores que desejarem ampliar sua divulgação utilizarão o **Plano Individual Premium**, que disponibiliza funcionalidades adicionais já presentes no MVP, como:
+*Fonte: Elaborado pelas autoras (2026).*[cite: 4]
 
-- destaque do perfil;
-- relatórios;
-- catálogo de produtos;
-- campanhas promocionais.
+## 2.3 Estudo dos Fornecedores
+A operação do sistema depende de provedores de infraestrutura tecnológica e serviços de suporte à computação em nuvem[cite: 4]:
+* **Provedores de Servidores e Banco de Dados:** Serviços de autenticação, hospedagem e gestão de dados em nuvem para sustentação da arquitetura do software[cite: 4].
+* **Provedores de Hospedagem e Distribuição de Conteúdo:** Serviços para otimização de desempenho, segurança e entrega de conteúdo web (plataforma Cloudflare)[cite: 4].
+* **Provedores de Armazenamento de Mídia:** Serviços especializados para a gestão, otimização e entrega de imagens dos estabelecimentos e catálogos[cite: 4].
+* **Provedores de Comunicação e Mensageria:** Infraestrutura para o envio de e-mails[cite: 4].
+* **Serviços Operacionais e Jurídicos:** Consultorias para adequação contínua à Lei Geral de Proteção de Dados, serviços de contabilidade e órgãos de registro de domínio[cite: 4].
 
-### Clientes de grupo
+### Tabela 3 — Mapeamento dos Principais Fornecedores e Parceiros Tecnológicos
+| Categoria de Fornecimento | Fornecedor / Solução | Escopo do Serviço Prestado | Criticidade para a Operação |
+| :--- | :--- | :--- | :--- |
+| Servidores, Banco de Dados e Autenticação | Google Firebase | Hospedagem em nuvem, autenticação e gestão de banco de dados (Pay as you go)[cite: 4] | Alta[cite: 4] |
+| Segurança, DNS e CDN | Cloudflare | Gerenciamento de DNS, certificados SSL/TLS e proteção DDoS[cite: 4] | Alta[cite: 4] |
+| Design e Prototipação | Figma | Ferramenta colaborativa de design de interfaces (UI/UX)[cite: 4] | Média[cite: 4] |
+| Registro de Domínio | Registro.br | Registro e manutenção de domínios institucionais (.com.br)[cite: 4] | Alta[cite: 4] |
+| Serviços Contábeis e Jurídicos | Escritório de Contabilidade / Consultoria LGPD | Escrituração fiscal (Simples Nacional), folha/pró-labore e adequação à LGPD[cite: 4] | Alta[cite: 4] |
 
-São associações, cooperativas, grupos de empreendedores e organizações locais que necessitam de uma solução digital personalizada para seus participantes.
+*Fonte: Elaborado pelas autoras (2026).*[cite: 4]
 
-O plano parte de um **mínimo de 30 empreendedores**, quantidade estabelecida para tornar economicamente viável a personalização da interface, a configuração e o isolamento do ambiente.
-
-O valor de referência é de **R$ 30,00 por empreendedor/mês**, resultando em uma mensalidade mínima de **R$ 900,00**.
-
-### Usuários consumidores
-
-São consumidores que procuram produtos e serviços próximos de sua localização.
-
-O acesso à plataforma permite:
-
-- localização de estabelecimentos;
-- consulta de informações;
-- visualização de anúncios;
-- contato direto com o empreendedor.
-
-A plataforma busca facilitar a procura por soluções disponíveis na própria região.
-
----
-
-## 2.2 Estudo dos concorrentes
-
-Os principais concorrentes indiretos são:
-
-- redes sociais;
-- aplicativos de mensagens;
-- mecanismos de busca;
-- plataformas de mapas e diretórios;
-- marketplaces;
-- plataformas de delivery;
-- serviços de publicidade digital.
-
-Essas soluções possuem grande alcance, mas não são necessariamente direcionadas às necessidades específicas de pequenos empreendedores locais.
-
-O diferencial do ACHOU! está na combinação de:
-
-- foco territorial;
-- georreferenciamento;
-- simplicidade;
-- baixo custo;
-- ausência de comissão sobre vendas;
-- contato direto entre consumidor e empreendedor;
-- personalização para grupos.
-
----
-
-## 2.3 Estudo dos fornecedores
-
-Os principais fornecedores tecnológicos e operacionais são:
-
-- serviços de hospedagem e infraestrutura em nuvem;
-- Firebase;
-- Cloudflare Pages;
-- Cloudinary;
-- serviços de comunicação;
-- serviços de geolocalização e consulta de endereços;
-- serviços contábeis;
-- serviços jurídicos e de conformidade.
-
-Durante o desenvolvimento do MVP, a utilização de planos gratuitos de serviços tecnológicos demonstrou ser suficiente para a operação em ambiente laboratorial, reduzindo os custos iniciais.
-
-Com o crescimento da base de usuários, a infraestrutura migrará gradualmente para planos pagos conforme o consumo dos serviços.
+> ⬆️ [Voltar ao Sumário](#sumário)
 
 ---
 
 # 3. PLANO DE MARKETING
+O Plano de Marketing estabelece as estratégias de posicionamento, precificação, promoção e distribuição necessárias para viabilizar a atração e retenção dos clientes, garantindo a adoção da plataforma no Arranjo Produtivo Local de Pinhais[cite: 4].
 
 ## 3.1 Produto
+O produto consiste em uma plataforma digital georreferenciada de visibilidade para o comércio e prestação de serviços locais[cite: 4]. A ferramenta oferta um portal de catálogo e localização sem intermediação financeira ou operacional nas vendas[cite: 4]. O sistema direciona o contato do consumidor diretamente para os canais já utilizados pelo empreendedor, como aplicativos de mensagem instantânea[cite: 4]. Para a modalidade de contratação por entidades coletivas, prevê-se a possibilidade de adaptações futuras e customizações sob demanda da arquitetura inicial do software[cite: 4].
 
-O produto principal é a plataforma digital ACHOU!, composta por diferentes modalidades de utilização.
-
-### Plano Individual Gratuito
-
-- cadastro;
-- presença digital;
-- localização geográfica;
-- divulgação de informações;
-- contato direto com o empreendedor;
-- publicação de anúncios mediante moderação.
-
-### Plano Individual Premium
-
-O plano premium disponibiliza funcionalidades adicionais que já fazem parte do MVP, incluindo:
-
-- destaque do perfil;
-- relatórios;
-- catálogo de produtos;
-- campanhas promocionais.
-
-Essas funcionalidades são utilizadas como recursos de monetização do atendimento individual.
-
-**Valor:** R$ 60,00 por mês.
-**Taxa de adesão:** zero.
-
-### Plano ACHOU! Grupo
-
-Plano destinado a **grupos de no mínimo 30 empreendedores**.
-
-Inclui:
-
-- personalização da interface;
-- ambiente de dados isolado;
-- configuração inicial;
-- implantação;
-- manutenção;
-- suporte técnico;
-- atualizações e correções dentro do escopo contratado.
-
-A organização contratante define os usuários autorizados a publicar conteúdos e realizar a moderação.
-
-Novos módulos, integrações ou alterações estruturais serão tratados como serviços adicionais, mediante orçamento específico.
-
----
+`[INSERIR AQUI A IMAGEM: ILUSTRAÇÃO DO PRODUTO ACHOU! — CONEXÃO DIRETA SEM TAXAS]`  
+*Figura 1 — Ecossistema Digital e Funcionamento do Produto Achou!. Fonte: Elaborado pelas autoras (2026).*[cite: 4]
 
 ## 3.2 Preço
-
-### Plano Individual
-
-A modalidade básica será gratuita.
-
-A modalidade premium será cobrada por **R$ 60,00 mensais**, com **sem taxa de adesão** e com acesso a recursos adicionais como destaques, relatórios, catálogo e campanhas promocionais.
-
-### Plano ACHOU! Grupo
-
-| Item | Valor |
-|---|---:|
-| Valor por participante | R$ 30,00/mês |
-| Quantidade mínima | 30 empreendedores |
-| Mensalidade mínima | **R$ 900,00/mês** |
-| Implantação, personalização e configuração | **R$ 2.500,00** |
-| Prazo contratual | **12 meses** |
-
-A mensalidade cobre a operação da solução dentro da capacidade contratada, incluindo infraestrutura, manutenção, suporte técnico, atualizações e correções.
-
-A implantação, personalização e configuração são cobradas uma única vez no início do contrato.
-
-Caso o grupo possua mais de 30 participantes, o valor mensal será ajustado proporcionalmente à quantidade contratada.
-
----
+A estratégia de precificação orienta-se pela busca da lucratividade da empresa, estando estruturada em fases de implantação[cite: 4]. A versão de entrada para microempreendedores opera em modelo de plano individual gratuito ou com subscrição para funcionalidades de destaque e divulgação promocional (Plano Individual Premium a R$ 29,90/mês)[cite: 4]. A plataforma prevê licenças B2B para grupos empresariais, associações e entidades coletivas[cite: 4]. O público consumidor possui acesso sempre gratuito[cite: 4].
 
 ## 3.3 Praça
-
-A atuação inicial será concentrada em **Pinhais, Paraná**, especialmente no contexto do Arranjo Produtivo Local (APL).
-
-A distribuição será predominantemente digital, utilizando:
-
-- plataforma web;
-- aplicação mobile;
-- landing page;
-- redes sociais;
-- comunicação direta com organizações locais.
-
-A expansão para outros municípios ocorrerá após a validação do modelo de negócio em Pinhais.
-
----
+A distribuição do produto abrange os meios digitais e físicos pelos quais o software é disponibilizado aos clientes e usuários[cite: 4]. Para os comerciantes e prestadores de serviços do Arranjo Produtivo Local de Pinhais, o acesso e a gestão das informações ocorrem via aplicação web e móvel[cite: 4]. Para os consumidores finais da região, o acesso ao catálogo de estabelecimentos é realizado por meio de interface web[cite: 4]. A prospecção e a adesão de novos estabelecimentos ocorrem no território do Arranjo Produtivo Local[cite: 4].
 
 ## 3.4 Promoção
+As ações promocionais focam na atração de estabelecimentos comerciais e no engajamento dos consumidores locais[cite: 4]. A comunicação voltada aos empreendedores prioriza a demonstração da facilidade de uso da plataforma, a ausência de taxas sobre transações e a integração harmoniosa ao modelo de negócios, bem como a previsibilidade sobre os custos e o controle total dos processos[cite: 4]. A atração de consumidores baseia-se em campanhas digitais hiperlocais e no posicionamento voltado à conveniência do consumo de proximidade[cite: 4].
 
-As ações de divulgação serão executadas pelas próprias sócias.
-
-Principais ações:
-
-- redes sociais;
-- produção de conteúdo;
-- landing page;
-- anúncios pagos;
-- impulsionamento local;
-- materiais impressos;
-- contato direto com grupos e organizações;
-- demonstrações da plataforma.
-
-O orçamento de marketing será destinado principalmente à mídia paga e aos materiais de divulgação.
+> ⬆️ [Voltar ao Sumário](#sumário)
 
 ---
 
 # 4. PLANO OPERACIONAL
+A estrutura física da empresa caracteriza-se pelo formato digital e remoto, dispensando a locação de imóveis[cite: 4]. As atividades administrativas, de desenvolvimento de software e de suporte técnico ocorrem em regime de escritório virtual, com endereço fiscal fixado no município de Pinhais[cite: 4]. Os ativos tecnológicos fundamentais concentram-se integralmente em servidores de computação em nuvem, garantindo alta disponibilidade e acesso remoto seguro para a equipe[cite: 4].
 
 ## 4.1 Layout ou arranjo físico
+Não se aplica. Modelo de trabalho remoto, com endereço fiscal fixado no município de Pinhais[cite: 4].
 
-O ACHOU! terá operação predominantemente digital e não necessitará de espaço comercial próprio inicialmente.
-
-O **domicílio fiscal da empresa será estabelecido no município de Pinhais, Paraná**, mantendo a relação territorial do negócio com o APL de Pinhais e com o mercado inicialmente atendido.
-
-As atividades operacionais serão realizadas de forma remota, utilizando:
-
-- computadores das sócias;
-- ferramentas de desenvolvimento;
-- serviços em nuvem;
-- sistemas de gestão;
-- canais digitais de atendimento.
-
-Não haverá necessidade de estoque físico.
-
----
+`[INSERIR AQUI A IMAGEM: MODELO DE TRABALHO REMOTO: ACHOU!]`  
+*Figura 2 — Modelo de Trabalho Remoto e Arranjo Operacional: Achou!. Fonte: Elaborado pelas autoras (2026).*[cite: 4]
 
 ## 4.2 Capacidade produtiva, comercial e de prestação de serviços
-
-A operação inicial será realizada pelas duas sócias.
-
-Cada sócia acompanhará até **15 contratos de grupos**, totalizando uma capacidade operacional inicial de **30 contratos de grupos**.
-
-Essa capacidade representa o limite operacional planejado para a estrutura inicial e não uma meta obrigatória de vendas. O planejamento financeiro analisa a viabilidade econômica do projeto até o ponto em que a expansão atinja esse limite operacional da equipe formada pelas duas sócias. Ao final dessa etapa, a empresa identifica gargalos na operação e toma decisões mais assertivas sobre expansão, automação ou reforço de equipe.
-
-A expansão da capacidade ocorrerá mediante aumento da equipe, automação dos processos ou revisão da estrutura operacional.
-
-A experiência técnica acumulada no desenvolvimento do MVP fornece uma base para a operação tecnológica. O projeto registrou 88 tarefas técnicas concluídas, com média de 11 tarefas homologadas por ciclo.
-
----
+A capacidade operacional da plataforma digital é escalável, sustentada pela infraestrutura em nuvem[cite: 4]. O sistema absorve o cadastramento simultâneo de estabelecimentos comerciais, prestadores de serviços e acessos de usuários finais do Arranjo Produtivo Local de Pinhais, sem limitação física de atendimento[cite: 4]. A capacidade comercial e de prestação de serviços está dimensionada para atender até 1.000 empreendedores cadastrados (com teto de conversão de 5% no plano Individual Premium, totalizando 50 assinantes ativos) e até 30 grupos empresariais/associações B2B em regime de cruzeiro, mantendo suporte técnico contínuo e manutenção evolutiva[cite: 4].
 
 ## 4.3 Processos operacionais
+Os processos operacionais dividem-se em duas frentes principais[cite: 4]:
+* **Desenvolvimento e Manutenção de Software:** Atualização contínua da interface da aplicação, gerenciamento de dados cadastrais e monitoramento da estabilidade dos servidores em nuvem[cite: 4].
+* **Atendimento e Suporte:** Recepção de solicitações de suporte técnico dos empreendedores, verificação de conformidade das informações inseridas no catálogo e orientação sobre o uso das ferramentas digitais[cite: 4].
 
-### Processo do usuário individual
+`[INSERIR AQUI A IMAGEM: FLUXO DE PROCESSOS OPERACIONAIS — ACHOU!]`  
+*Figura 3 — Fluxo de Processos Operacionais: Desenvolvimento, Suporte e Atendimento. Fonte: Elaborado pelas autoras (2026).*[cite: 4]
 
-```text
-Cadastro
-   ↓
-Envio de anúncio
-   ↓
-Moderação
-   ↓
-Publicação
-   ↓
-Localização pelo consumidor
-   ↓
-Contato direto com o empreendedor
-```
-O ACHOU! não participa da negociação nem da transação financeira.
+## 4.4 Necessidade de Pessoal
+O dimensionamento inicial de pessoal abrange exclusivamente as duas sócias fundadoras, responsáveis de forma cumulativa e enxuta pelas funções de gestão administrativa, desenvolvimento tecnológico, atendimento ao cliente e estratégias de marketing local, conforme previsto na estrutura de custos fixos e pró-labore ao longo do horizonte de projeção de 3 anos até atingir o limite operacional[cite: 4]. Com a maturação do modelo e a consolidação da receita recorrente no patamar de regime de cruzeiro ao término do ciclo financeiro projetado, a estrutura de pessoal será reavaliada e redimensionada para suportar novas fases de expansão e demandas avançadas de suporte e customização[cite: 4].
 
-### Processo do Plano Grupo
-
-```
-Contratação
-   ↓
-Coleta das informações do grupo
-   ↓
-Personalização da interface
-   ↓
-Configuração do ambiente isolado
-   ↓
-Testes
-   ↓
-Implantação
-   ↓
-Disponibilização dos tutoriais
-   ↓
-Operação e suporte técnico
-```
-A organização contratante define os usuários autorizados a publicar e moderar conteúdos.
-
-### Treinamento e suporte
-Para reduzir a necessidade de treinamentos presenciais, os principais treinamentos e orientações de utilização serão disponibilizados em **tutoriais no próprio site da plataforma**.
-
-O conteúdo será destinado tanto aos usuários individuais quanto aos grupos contratantes.
-
-Os materiais abordam:
-
-- cadastro;
-- utilização da plataforma;
-- publicação de anúncios;
-- gerenciamento das informações;
-- utilização das funcionalidades disponíveis;
-- principais dúvidas;
-- procedimentos de uso do Plano Grupo.
-
-O suporte técnico continuará sendo realizado pelo ACHOU! nos casos em que o conteúdo dos tutoriais não seja suficiente.
-
-### Manutenção
-A manutenção prevista no contrato inclui:
-
-- correções;
-- atualizações;
-- manutenção de rotina;
-- suporte técnico;
-- disponibilidade da plataforma dentro das condições contratadas.
-
-Novos módulos, novas integrações, alterações estruturais ou desenvolvimentos personalizados serão tratados como serviços adicionais.
-
-### Marketing
-As sócias serão responsáveis por:
-
-- redes sociais;
-- landing page;
-- campanhas;
-- anúncios;
-- contato com potenciais clientes;
-- relacionamento com grupos e organizações.
-
----
-
-## 4.4 Necessidade de pessoal
-No início da operação, não haverá funcionários contratados.
-
-| Função | Responsável |
-|---|---|
-| Gestão do negócio | Sócias |
-| Desenvolvimento e manutenção | Sócias |
-| Atendimento e suporte | Sócias |
-| Moderação do Plano Individual | Sócias |
-| Implantação dos grupos | Sócias |
-| Marketing | Sócias |
-| Gestão financeira e administrativa | Sócias |
-| Contabilidade | Serviço terceirizado |
-| Assessoria jurídica e conformidade legal | Serviço terceirizado |
-
-A contratação de pessoal será avaliada conforme o crescimento da quantidade de contratos e da demanda operacional.
+> ⬆️ [Voltar ao Sumário](#sumário)
 
 ---
 
 # 5. PLANO FINANCEIRO
+O Plano Financeiro projeta a viabilidade econômica do modelo de negócios com base em premissas conservadoras de prospecção, curva de adesão graduada e estrutura enxuta de custos operacionais[cite: 4].
 
 ## 5.1 Investimentos
+O investimento inicial totaliza R$ 23.735,00, composto pelos ativos fixos e diferidos essenciais para o lançamento da plataforma e por uma reserva de Capital de Giro de R$ 10.000,00, garantindo liquidez e cobertura operacional durante a fase de maturação das vendas[cite: 4].
 
-| Tipo | Detalhamento | Valor |
-|---|---|---:|
-| Investimentos fixos | Domínio e configuração inicial; reserva para expansão da infraestrutura digital | R$ 500,00 |
-| Capital de giro | Marketing inicial; reserva operacional; suporte/atendimento; contingência | R$ 8.000,00 |
-| Investimentos pré-operacionais | Assessoria contábil, jurídica e conformidade legal; lançamento e divulgação | R$ 4.000,00 |
-| **Total** |  | **R$ 12.500,00** |
+### Tabela 4 — Investimento Inicial Total
+| Item de Investimento | Categoria | Valor (R$) | % do Total |
+| :--- | :--- | :--- | :--- |
+| Capital de Giro | Reserva Operacional | R$ 10.000,00 | 42,13%[cite: 4] |
+| Máquinas e Equipamentos | Ativo Imobilizado | R$ 7.000,00 | 29,49%[cite: 4] |
+| Ferramentas e Softwares | Equipamentos/Software | R$ 1.600,00 | 6,74%[cite: 4] |
+| Conformidade Legal e Fiscal | Gastos Pré-operacionais | R$ 1.135,00 | 4,78%[cite: 4] |
+| **Investimento Total Necessário** | **CAPEX + OPEX Inicial** | **R$ 23.735,00** | **100,00%**[cite: 4] |
 
-O planejamento financeiro analisa a viabilidade econômica do projeto até o ponto em que a expansão atinja o limite operacional da equipe formada pelas duas sócias. Esse critério permite verificar se o modelo consegue sustentar a operação inicial, identificar gargalos e sustentar decisões futuras de expansão com base em indicadores reais.
+*Fonte: Elaborado pelas autoras com base nos dados projetados (2026).*[cite: 4]
 
----
+### 5.1.1 Detalhamento de Máquinas, Equipamentos, Softwares e Conformidade Legal
+* **Máquinas e Equipamentos (R$ 7.000,00):** 2 computadores para operação, suporte e desenvolvimento[cite: 4].
+* **Ferramentas e Softwares (R$ 1.600,00):** Licença anual do Figma para design e prototipação (R$ 1.000,00), reserva anual de infraestrutura Firebase em plano pay as you go (R$ 600,00) e Cloudflare para DNS e segurança em plano gratuito (R$ 0,00)[cite: 4].
+* **Conformidade Legal e Fiscal (R$ 1.135,00):** Taxa da Junta Comercial para abertura LTDA (R$ 135,00), alvará de funcionamento municipal (R$ 300,00), honorários contábeis de constituição e contrato social (R$ 660,00) e registro de domínio .com.br por 2 anos (R$ 40,00)[cite: 4].
+
+### 5.1.2 Fontes de Recursos
+### Tabela 5 — Fontes de Recursos
+| Origem do Capital | Descrição | Valor (R$) | % do Total |
+| :--- | :--- | :--- | :--- |
+| Recursos Próprios | Aporte inicial integralizado pelas fundadoras | R$ 23.735,00 | 100,00%[cite: 4] |
+| **Total de Fontes de Recursos** | **Aporte Total** | **R$ 23.735,00** | **100,00%**[cite: 4] |
+
+*Fonte: Elaborado pelas autoras com base nos dados projetados (2026).*[cite: 4]
 
 ## 5.2 Composição dos principais gastos
+A estrutura de gastos divide-se em deduções sobre vendas, custos variáveis de tecnologia e despesas fixas operacionais[cite: 4]:
+* **Deduções sobre a Receita Bruta:** Impostos sobre Serviços via Simples Nacional (6,00%) e Taxas de Meio de Pagamento / Gateway (3,00%)[cite: 4].
+* **Custos Variáveis (Servidores, Nuvem e APIs):** Projetados em R$ 3.600,00 no Ano 1, R$ 5.400,00 no Ano 2 e R$ 6.000,00 no Ano 3, acompanhando o crescimento do tráfego e da base ativa[cite: 4].
+* **Despesas Fixas Operacionais (DRE):** Compostas por Marketing e Aquisição de Clientes / CAC (R$ 6.000,00 no Ano 1; R$ 7.200,00 nos Anos 2 e 3), Manutenção e Suporte Técnico (R$ 7.200,00 no Ano 1; R$ 8.400,00 no Ano 2; R$ 9.600,00 no Ano 3) e Despesas Administrativas e Contabilidade (R$ 4.800,00 no Ano 1; R$ 6.000,00 no Ano 2; R$ 7.200,00 no Ano 3), totalizando R$ 18.000,00 no Ano 1, R$ 21.600,00 no Ano 2 e R$ 24.000,00 no Ano 3[cite: 4].
+* **Estrutura Mensal de Referência e Pró-Labore:** Contempla também o Pró-Labore das duas sócias no valor de R$ 6.084,00/mês (4 salários mínimos totais) dentro de uma estrutura mensal de custos fixos operacionais de referência de R$ 7.107,34/mês[cite: 4].
+* **Depreciação / Amortização:** Provisionada em R$ 1.500,00 ao ano[cite: 4].
 
-| Item | Valor mensal |
-|---|---:|
-| Internet, telefonia e comunicação | R$ 150,00 |
-| Energia, água e serviços básicos | R$ 250,00 |
-| Infraestrutura/hospedagem | R$ 150,00 |
-| Ferramentas e gestão | R$ 200,00 |
-| Mídia paga e divulgação | R$ 700,00 |
-| Contabilidade, compliance e fiscal | R$ 500,00 |
-| Assessoria jurídica e suporte operacional | R$ 200,00 |
-| Reserva operacional | R$ 600,00 |
-| Pró-labore — Sócia 1 | R$ 3.242,00 |
-| Pró-labore — Sócia 2 | R$ 3.242,00 |
-| **Total** | **R$ 8.884,00** |
+## 5.3 Evolução dos resultados econômicos e financeiros (projetados)
+A estratégia de receita baseia-se em duas fontes primárias[cite: 4]:
+1. **Planos B2B (Grupos Empresariais / Associações):** Licenciamento corporativo.
+   * *Ano 1:* Adição gradual de 15 grupos (média de ~1,25 grupos/mês)[cite: 4].
+   * *Ano 2:* Adição de mais 15 grupos, encerrando o ano com 30 grupos ativos[cite: 4].
+   * *Ano 3:* Regime de cruzeiro mantido em 30 grupos ativos[cite: 4].
+2. **Planos Individual Premium (B2C / Empreendedores):** Ticket médio de R$ 29,90/mês[cite: 4].
+   * *Regra de Conversão (Teto de 5%):* Calculada sobre a base limite de 1.000 empreendedores/anunciantes cadastrados[cite: 4].
+   * *Teto Máximo:* 50 assinantes Individual Premium ativos em regime de cruzeiro (1.000 × 5%)[cite: 4].
 
-A reserva operacional representa formação de caixa e deve ser diferenciada da despesa contábil na elaboração da DRE definitiva.
-
----
-
-## 5.3 Evolução dos resultados econômicos e financeiros projetados
-
-A principal receita recorrente será proveniente dos Planos ACHOU! Grupo e do Plano Individual Premium.
-
-### Premissas de monetização individual
-Para fins de planejamento, será adotada uma base conservadora de usuários ativos, considerando conversão média de **5%** dos usuários cadastrados para o plano premium. Em plataformas digitais de assinatura, a conversão de usuários gratuitos para assinantes pagos normalmente fica entre **2% e 8%**, com churn mensal em torno de **2% a 5%**.
-
-Assumindo:
-
-- 500 usuários ativos;
-- taxa de conversão para premium: **5%**;
-- valor do plano premium: **R$ 60,00/mês**;
-- churn mensal conservador: **3%**;
-
-A base de assinantes premium estimada será de:
-
-- 500 × 5% = **25 assinantes**;
-- MRR premium = 25 × R$ 60,00 = **R$ 1.500,00/mês**.
-
-### Receita recorrente por grupo
-Cada grupo com o mínimo de 30 empreendedores representa:
-
-**R$ 900,00/mês de receita recorrente.**
-
-A implantação representa uma receita inicial adicional de:
-
-**R$ 2.500,00 por novo grupo.**
-
-### Fórmulas de projeção
-
-- Receita recorrente total = (Nº de grupos × R$ 900,00) + (Nº de premium × R$ 60,00)
-- Imposto estimado = 6% × Receita recorrente total
-- Resultado mensal = Receita recorrente total − Imposto − R$ 8.884,00 − Reserva variável de infraestrutura
-
-### Cenários mensais
-
-| Cenário | Grupos | Premium ativos | Receita recorrente total | Imposto estimado* | Reserva variável de infraestrutura | Resultado mensal simplificado |
-|---|---:|---:|---:|---:|---:|---:|
-| Inicial | 5 | 25 | R$ 6.000,00 | R$ 360,00 | R$ 200,00 | **-R$ 3.444,00** |
-| Intermediário | 15 | 25 | R$ 15.000,00 | R$ 900,00 | R$ 300,00 | **R$ 4.916,00** |
-| Capacidade inicial | 30 | 25 | R$ 28.500,00 | R$ 1.710,00 | R$ 600,00 | **R$ 17.306,00** |
-
-* Utilizada alíquota de 6% como premissa de planejamento, em linha com o regime do Simples Nacional adotado pela empresa.
-
-A receita de implantação é adicional à receita recorrente. Para cada novo grupo:
-
-**R$ 2.500,00 de implantação + R$ 900,00 da primeira mensalidade = R$ 3.400,00 de entrada inicial.**
-
-Em um contrato de 12 meses, considerando um grupo e a base estimada de 25 usuários premium:
-
-- implantação: R$ 2.500,00;
-- mensalidades de grupos: 12 × R$ 900,00 = R$ 10.800,00;
-- mensalidades premium: 12 × (25 × R$ 60,00) = R$ 18.000,00;
-- receita contratual total estimada: **R$ 31.300,00**.
-
----
-
-## 5.4 Capital de giro
-O capital de giro inicial será de **R$ 8.000,00**.
-
-Sua composição foi planejada para garantir recursos para:
-
-- marketing inicial;
-- operação;
-- suporte;
-- contingências.
-
-A receita de implantação dos contratos e a receita recorrente inicial contribuirão para reforçar o caixa durante a fase de aquisição dos primeiros clientes.
-
----
-
-## 5.5 Indicadores de viabilidade
-
-Os principais indicadores utilizados para avaliação da viabilidade do modelo são:
-
-- MRR (Monthly Recurring Revenue);
-- receita total;
-- margem;
-- ponto de equilíbrio;
-- número de grupos ativos;
-- retenção;
-- churn;
-- CAC;
-- ROI;
-- Payback;
-- VPL;
-- TIR.
-
-A estrutura de custos fixos e variáveis permite estimar o ponto de equilíbrio por meio da seguinte expressão:
-
-- margem de contribuição por grupo = R$ 900,00 − R$ 200,00 − 6% de R$ 900,00 = **R$ 646,00**
-- ponto de equilíbrio, sem premium = R$ 8.884,00 ÷ R$ 646,00 ≈ **13,7 grupos**
-- ponto de equilíbrio, com 25 premium ativos = (R$ 8.884,00 − R$ 1.500,00) ÷ R$ 646,00 ≈ **11,4 grupos**
-
-Considerando a receita complementar do Plano Individual Premium, o ponto de equilíbrio do negócio passa a situar-se em torno de **11 a 12 grupos completos**, ou em uma combinação equivalente de grupos e usuários premium ativos.
-
-Assim:
-
-- abaixo de aproximadamente 11 a 12 grupos, ou sem volume suficiente de premium: tendência de resultado negativo;
-- próximo de 11 a 12 grupos, com base premium sustentada: aproximação do equilíbrio;
-- acima desse nível: geração de resultado positivo.
-
-A receita do Plano Individual Premium reduz a dependência exclusiva da venda de grupos, aumenta a previsibilidade de caixa e melhora a atratividade do modelo durante a fase inicial de consolidação do negócio.
-
----
-
-## 5.6 Cenários alternativos
-
-| Cenário | Grupos | Premium ativos | Receita recorrente | Imposto estimado | Reserva variável | Resultado mensal |
-|---|---:|---:|---:|---:|---:|---:|
-| Conservador | 5 | 25 | R$ 6.000,00 | R$ 360,00 | R$ 200,00 | **-R$ 3.444,00** |
-| Tração | 15 | 25 | R$ 15.000,00 | R$ 900,00 | R$ 300,00 | **R$ 4.916,00** |
-| Capacidade inicial | 30 | 25 | R$ 28.500,00 | R$ 1.710,00 | R$ 600,00 | **R$ 17.306,00** |
-
-Os 30 grupos representam a **capacidade inicial da estrutura operacional**, e não uma meta obrigatória de vendas.
-
----
-
-# 6. ANÁLISE ESTRATÉGICA
-
-## 6.1 Análise SWOT
-
-| Forças | Fraquezas |
-|---|---|
-| MVP já desenvolvido e homologado | Operação inicial dependente das duas sócias |
-| Baixo custo de infraestrutura inicial | Capacidade inicial limitada a 30 contratos de grupos |
-| Modelo sem comissão sobre vendas | Marca ainda em fase de consolidação |
-| Foco na economia de proximidade | Baixa capacidade de investimento inicial |
-| Plataforma georreferenciada | Necessidade de aquisição contínua de clientes |
-| Personalização para grupos | Dependência de serviços tecnológicos de terceiros |
-| Funcionalidades premium já disponíveis no MVP | Sobrecarga potencial das sócias com o crescimento |
-
-| Oportunidades | Ameaças |
-|---|---|
-| Baixa presença digital de pequenos negócios | Grandes plataformas digitais |
-| Crescimento do comércio de proximidade | Concorrência de redes sociais e marketplaces |
-| Expansão para outros municípios | Baixa capacidade financeira dos microempreendedores |
-| Contratos com associações e cooperativas | Aumento dos custos de infraestrutura |
-| Monetização de funcionalidades premium | Dependência de plataformas e APIs externas |
-| Parcerias com organizações locais | Dificuldade de aquisição e retenção de clientes |
----
-
-# 7. AVALIAÇÃO DO PLANO
-O ACHOU! apresenta uma base tecnológica já desenvolvida, reduzindo o risco associado à criação inicial do produto. A primeira fase resultou no **protótipo**, a segunda consolidou o **MVP**, e a terceira fase concentra-se na **transformação da solução tecnológica em uma operação comercial sustentável**, com a elaboração de um plano de negócios abrangendo análise de mercado, plano de marketing, plano operacional, plano financeiro, análise estratégica e avaliação do modelo de negócio.
-
-O modelo de negócio combina acesso individual gratuito, funcionalidades adicionais mediante plano premium e contratos personalizados para grupos de no mínimo 30 empreendedores.
-
-A definição de 30 participantes como quantidade mínima para o Plano Grupo busca garantir que o esforço de personalização, configuração e isolamento do ambiente seja economicamente viável para o ACHOU!, mantendo simultaneamente um valor acessível para os participantes.
-
-A disponibilização de tutoriais diretamente no site da plataforma reduz a necessidade de treinamentos presenciais e permite maior escalabilidade do atendimento. O suporte técnico permanece como responsabilidade do ACHOU!.
-
-A estrutura inicial com duas sócias permite manter os custos controlados, mas estabelece uma capacidade operacional inicial de 30 contratos de grupos. O atingimento dessa capacidade funciona como marco para avaliar contratação, automação e expansão.
-
-O ponto de equilíbrio estimado entre 10 e 11 grupos indica potencial de sustentabilidade após a formação de uma base recorrente de clientes. A viabilidade efetiva depende, principalmente, da capacidade de aquisição e retenção dos grupos, da evolução dos custos tecnológicos e da eficiência operacional.
-
-A evolução do projeto foi sintetizada da seguinte forma:
-
-FASE 1 → Ideação + Engenharia de Software + Prototipação → PROTÓTIPO
-
-FASE 2 → Desenvolvimento incremental em 8 Sprints × 15 dias → MVP FUNCIONAL
-
-FASE 3 → Transformação da solução tecnológica em operação comercial sustentável + plano de negócios + estrutura operacional + estratégia de crescimento → STARTUP
-
-Assim, o presente Plano de Negócios representa a continuidade natural do desenvolvimento do ACHOU!, passando da construção e validação tecnológica para a estruturação de um modelo comercial sustentável e escalável.
-
-O desenvolvimento desta etapa, assim como das anteriores, tem um caráter extensionista, uma vez que a solução foi concebida para responder a demandas reais da comunidade local e para fortalecer ações de inclusão digital, geração de renda e organização econômica em territórios de proximidade. Nesse sentido, a primeira personalização da plataforma é direcionada a uma associação de moradores voltada à economia solidária, com foco em organização comunitária, fortalecimento de empreendimentos locais e gestão estratégica orientada à participação social e ao desenvolvimento territorial. Essa abordagem evidencia a capacidade do projeto de articular inovação tecnológica, planejamento estratégico e impacto social no contexto de comunidades organizadas.
+### Tabela 6 — Evolução da Base de Clientes e Receita Mensal Recorrente (MRR)
+| Período | Grupos B2B Ativos | Assinantes Individual Premium | Receita B2B (R$) | Receita Individual (R$) | MRR Total (R$) |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| Ano 1 - Mês 1 | 2 | 5 | R$ 700,00 | R$ 149,50 | R$ 849,50[cite: 4] |
+| Ano 1 - Mês 6 | 8 | 20 | R$ 2.800,00 | R$ 598,00 | R$ 3.398,00[cite: 4] |
+| Ano 1 - Mês 12 | 15 | 35 | R$ 5.250,00 | R$ 1.046,50 | R$ 6.296,50[cite: 4] |
+| Ano 2 - Mês 24 | 30 | 50 | R$ 10.500,00 | R$ 1.495,00 | R$ 11.995,00[cite: 4] |
+| Ano 3 - Mês 36 (Cruzeiro) | 30 | 50 | R$ 10.500,00 | R$ 1.495
