@@ -41,7 +41,8 @@ ENTREGAS
 
 <hr style="height:4px; border:none; color:#000; background-color:#000;">
 <hr style="height:4px; border:none; color:#000; background-color:#000;">
-# Práticas de Extensão _Piloto 
+
+*Atividades interdisciplinares 
 
  Documentos que estruturam a governança tecnológica e a conformidade legal do piloto na Associação de Moradores Jardim Graciosa: parte das Práticas de Extensão, vinculado à disciplina de Projeto Interdisciplinar III.
 
