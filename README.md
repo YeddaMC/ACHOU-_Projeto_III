@@ -36,8 +36,14 @@ ENTREGAS
 * 📁 [Apresentação do Projeto (PPTX)](https://github.com/YeddaMC/ACHOU-_Projeto_III/blob/main/ACHOU!-WIPEX_2026_Apresentação_2.pptx)
 
 <hr style="height:4px; border:none; color:#000; background-color:#000;">
+<hr style="height:4px; border:none; color:#000; background-color:#000;">
+# Práticas de Extensão _Piloto 
 
+ Documentos que estruturam a governança tecnológica e a conformidade legal do piloto na Associação de Moradores Jardim Graciosa: parte das Práticas de Extensão, vinculado à disciplina de Projeto Interdisciplinar III.
 
+*  [Artigo - Gestão de Incidentes de Segurança da Informação (Jardim Graciosa)](https://docs.google.com/document/d/1JPmGFtqBQQQF10qWglvI3iSsJr8IYM7YoAR4hFD7e7I/edit?usp=drivesdk)
+*  [Relatório de Impacto à Proteção de Dados (RIPD) - Associação Jardim Graciosa](https://docs.google.com/document/d/1e9fX9yGUYJObg24lBZJEjB1coEodeWEcJGqPnt4_WA0/edit?usp=drivesdk)
+*  **Planejamento Estratégico:** em andamento 
 
 <hr style="height:4px; border:none; color:#000; background-color:#000;">
 <hr style="height:4px; border:none; color:#000; background-color:#000;">
