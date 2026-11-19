@@ -25,6 +25,20 @@ Repositório criado para registrar o desenvolvimento do projeto ACHOU! em 2026.2
 </table>
 
 <hr style="height:4px; border:none; color:#000; background-color:#000;">
+ENTREGAS
+
+# V WIPEX
+
+<hr style="height:4px; border:none; color:#000; background-color:#000;">
+
+* 📁 [Artigo](https://github.com/YeddaMC/ACHOU-_Projeto_III/wiki/Artigo-%E2%80%90-A-ECONOMIA-DE-PROXIMIDADE-E-O-COM%C3%89RCIO-FIGITAL:-DA-CONCEP%C3%87%C3%83O-%C3%80-CONSOLIDA%C3%87%C3%83O-DO-ECOSSISTEMA-ACHOU!)
+* 📁 [Guia Apresentação](https://github.com/YeddaMC/ACHOU-_Projeto_III/wiki/Guia-Apresenta%C3%A7ao-%E2%80%90-TEMPLATE-DE-PROJETO-III)
+* 📁 [Apresentação do Projeto (PPTX)](https://github.com/YeddaMC/ACHOU-_Projeto_III/blob/main/ACHOU!-WIPEX_2026_Apresentação_2.pptx)
+
+<hr style="height:4px; border:none; color:#000; background-color:#000;">
+
+
+
 <hr style="height:4px; border:none; color:#000; background-color:#000;">
 <hr style="height:4px; border:none; color:#000; background-color:#000;">
 
