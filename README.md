@@ -31,6 +31,8 @@ ENTREGAS
 
 <hr style="height:4px; border:none; color:#000; background-color:#000;">
 
+- 📁 [PLANO DE NEGOCIOS](https://github.com/YeddaMC/ACHOU-_Projeto_III/blob/main/PLANO%20DE%20NEGOCIOS/documento_consolidado.md?plain=1)
+
 - 📁 [Código Fonte](https://github.com/YeddaYMC/achou.web)
 
 * 📁 [Artigo](https://github.com/YeddaMC/ACHOU-_Projeto_III/wiki/Artigo-%E2%80%90-A-ECONOMIA-DE-PROXIMIDADE-E-O-COM%C3%89RCIO-FIGITAL:-DA-CONCEP%C3%87%C3%83O-%C3%80-CONSOLIDA%C3%87%C3%83O-DO-ECOSSISTEMA-ACHOU!)
