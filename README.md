@@ -31,7 +31,7 @@ ENTREGAS
 
 <hr style="height:4px; border:none; color:#000; background-color:#000;">
 
-- 📁 [PLANO DE NEGOCIOS](https://github.com/YeddaMC/ACHOU-_Projeto_III/blob/main/PLANO%20DE%20NEGOCIOS/documento_consolidado.md?plain=1)
+- 📁 [PLANO DE NEGOCIOS](https://drive.google.com/file/d/1kB1h9UcABFpEps5yPHYJincCfZxyEV0f/view?usp=sharing)
 
 - 📁 [Código Fonte](https://github.com/YeddaYMC/achou.web)
 
