@@ -39,7 +39,7 @@ ENTREGAS
 * 
 * 📁 [Guia Apresentação](https://github.com/YeddaMC/ACHOU-_Projeto_III/wiki/Guia-Apresenta%C3%A7ao-%E2%80%90-TEMPLATE-DE-PROJETO-III)
 * 
-* 📁 [Apresentação do Projeto (PPTX)](https://github.com/YeddaMC/ACHOU-_Projeto_III/blob/main/ACHOU!-WIPEX_2026_Apresentação_2.pptx)
+* 📁 [Apresentação do Projeto (PPTX)](https://drive.google.com/file/d/1SC102d8Rr_N4hteK3werQG8mv3-bLhVe/view?usp=sharing)
 
 <hr style="height:4px; border:none; color:#000; background-color:#000;">
 <hr style="height:4px; border:none; color:#000; background-color:#000;">
