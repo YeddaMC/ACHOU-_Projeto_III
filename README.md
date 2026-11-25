@@ -50,7 +50,7 @@ ENTREGAS
 
 *  [Artigo - Gestão de Incidentes de Segurança da Informação (Jardim Graciosa)](https://docs.google.com/document/d/1JPmGFtqBQQQF10qWglvI3iSsJr8IYM7YoAR4hFD7e7I/edit?usp=drivesdk)
 *  [Relatório de Impacto à Proteção de Dados (RIPD) - Associação Jardim Graciosa](https://docs.google.com/document/d/1e9fX9yGUYJObg24lBZJEjB1coEodeWEcJGqPnt4_WA0/edit?usp=drivesdk)
-*  **Planejamento Estratégico:** em andamento 
+*  [Planejamento Estratégico:](https://docs.google.com/document/d/1sySIjV_ETyg4WLtFBV6uBSiuYAH6rdsV/edit?usp=sharing&ouid=104271530414606897574&rtpof=true&sd=true)
 
 <hr style="height:4px; border:none; color:#000; background-color:#000;">
 <hr style="height:4px; border:none; color:#000; background-color:#000;">
