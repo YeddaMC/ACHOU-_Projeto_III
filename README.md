@@ -75,11 +75,10 @@ ENTREGAS
 
 
 <hr style="height:4px; border:none; color:#000; background-color:#000;">
-
+<!--
 [PLANO DE NEGÓCIOS](https://github.com/YeddaMC/ACHOU-_Projeto_III/blob/main/PLANO%20DE%20NEGOCIOS/8_documento_consolidado.md)
 
 <hr style="height:4px; border:none; color:#000; background-color:#000;">
-
 
 | Data | Atividade / Entrega | Checklist |
 | :---: | :--- | :---: |
@@ -94,3 +93,4 @@ ENTREGAS
 | 08/10 | **REFERÊNCIAS**<br>Referências Bibliográficas e Documentais | ⚠️ revisar |
 | 22/10 | **8. REVISÃO E PREPARAÇÃO DA APRESENTAÇÃO**<br>Consolidação do documento final e montagem dos slides da apresentação | ⏳ pendente |
 | 29/10 | **9. AJUSTES E ENSAIO DA APRESENTAÇÃO FINAL (WIPEX)**<br>Ajustes finos no material e simulação/ensaio da defesa final | ⏳ pendente |
+-->
